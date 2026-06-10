@@ -88,7 +88,6 @@ export async function getGuestBookEntries(): Promise<GuestEntry[]> {
   }
 }
 
-import { revalidatePath } from "next/cache";
 
 export async function importGuestBookEntries(importedData: any[]) {
   try {
