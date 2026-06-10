@@ -1,0 +1,2102 @@
+[
+  {
+    "parentName": "Abu",
+    "studentName": "Nere",
+    "studentClass": "1",
+    "id": "ea598ffd-e811-4125-8add-723337c6ec68",
+    "createdAt": "2026-06-10T12:41:25.605Z"
+  },
+  {
+    "parentName": "Andi 602",
+    "studentName": "Aditya 302",
+    "studentClass": "3",
+    "id": "d738e4e0-2961-42df-ac02-226a8a2effc5",
+    "createdAt": "2026-06-10T12:20:00.034Z"
+  },
+  {
+    "parentName": "Hadi 589",
+    "studentName": "Cinta 514",
+    "studentClass": "3",
+    "id": "f7641a05-ee8a-438d-9204-37a8ef6abb87",
+    "createdAt": "2026-06-10T11:19:04.161Z"
+  },
+  {
+    "parentName": "Dewi 419",
+    "studentName": "Gita 879",
+    "studentClass": "4",
+    "id": "4d0ee956-c672-496a-b5f5-9d78b3532706",
+    "createdAt": "2026-06-10T04:40:11.132Z"
+  },
+  {
+    "parentName": "Hendro 541",
+    "studentName": "Rangga 516",
+    "studentClass": "5",
+    "id": "ac3d6dfa-713f-4051-ad0d-157e4db0a8e8",
+    "createdAt": "2026-06-09T11:55:03.500Z"
+  },
+  {
+    "parentName": "Rina 996",
+    "studentName": "Intan 83",
+    "studentClass": "6",
+    "id": "7b5bc67e-5a1b-4a21-95cc-c94954fbfdc5",
+    "createdAt": "2026-06-09T09:18:38.385Z"
+  },
+  {
+    "parentName": "Rina 750",
+    "studentName": "Eka 610",
+    "studentClass": "1",
+    "id": "a34b258f-65ca-4153-ae65-c9649b3dfcfe",
+    "createdAt": "2026-06-09T02:22:16.230Z"
+  },
+  {
+    "parentName": "Rina 259",
+    "studentName": "Dimas 699",
+    "studentClass": "4",
+    "id": "b2aad861-0fce-48c8-b105-9da2aed317fb",
+    "createdAt": "2026-06-08T22:13:23.433Z"
+  },
+  {
+    "parentName": "Tono 605",
+    "studentName": "Cinta 697",
+    "studentClass": "2",
+    "id": "98c0775c-710d-44c0-90f0-dfdd1564f78f",
+    "createdAt": "2026-06-08T19:59:14.648Z"
+  },
+  {
+    "parentName": "Budi 853",
+    "studentName": "Naufal 615",
+    "studentClass": "3",
+    "id": "c5be7a08-12c5-44cc-94c4-453d14848cfe",
+    "createdAt": "2026-06-08T14:11:08.119Z"
+  },
+  {
+    "parentName": "Sri 551",
+    "studentName": "Cinta 112",
+    "studentClass": "4",
+    "id": "0de15ed1-e5e2-48a4-a490-f22300637c8a",
+    "createdAt": "2026-06-08T04:43:33.781Z"
+  },
+  {
+    "parentName": "Andi 180",
+    "studentName": "Rangga 468",
+    "studentClass": "5",
+    "id": "f767bacc-f17f-4a8a-bb55-f059081f2577",
+    "createdAt": "2026-06-07T04:23:23.093Z"
+  },
+  {
+    "parentName": "Agus 971",
+    "studentName": "Intan 329",
+    "studentClass": "6",
+    "id": "82646dec-e614-41d1-ac1a-2fc4e0e82031",
+    "createdAt": "2026-06-06T20:51:38.606Z"
+  },
+  {
+    "parentName": "Agus 564",
+    "studentName": "Intan 852",
+    "studentClass": "1",
+    "id": "b031edbc-1793-44a3-be07-31033b22396a",
+    "createdAt": "2026-06-06T16:01:05.265Z"
+  },
+  {
+    "parentName": "Agus 794",
+    "studentName": "Aditya 608",
+    "studentClass": "6",
+    "id": "d2c1a137-9028-4e31-9662-915383eaa0b7",
+    "createdAt": "2026-06-06T05:03:02.484Z"
+  },
+  {
+    "parentName": "Nur 321",
+    "studentName": "Rangga 552",
+    "studentClass": "1",
+    "id": "1fb11a71-ec71-4a7c-8bb9-071036dba55a",
+    "createdAt": "2026-06-04T04:29:33.697Z"
+  },
+  {
+    "parentName": "Andi 442",
+    "studentName": "Aditya 48",
+    "studentClass": "5",
+    "id": "90c68594-e5bc-453f-b2f6-176e41f6c822",
+    "createdAt": "2026-06-03T13:05:22.182Z"
+  },
+  {
+    "parentName": "Rina 888",
+    "studentName": "Gita 706",
+    "studentClass": "2",
+    "id": "720a97af-4970-4328-81c0-4309340481b8",
+    "createdAt": "2026-06-03T10:45:39.639Z"
+  },
+  {
+    "parentName": "Agus 93",
+    "studentName": "Cinta 153",
+    "studentClass": "6",
+    "id": "5c658810-beaa-4bff-a2f4-383d46214e8f",
+    "createdAt": "2026-06-03T08:50:09.684Z"
+  },
+  {
+    "parentName": "Dewi 572",
+    "studentName": "Aisyah 500",
+    "studentClass": "1",
+    "id": "bc4231b3-d75b-4f85-93a6-758649898d8e",
+    "createdAt": "2026-06-03T04:57:32.886Z"
+  },
+  {
+    "parentName": "Nur 379",
+    "studentName": "Naufal 560",
+    "studentClass": "4",
+    "id": "7cff6439-118a-44d4-81b8-3ef09a234ff3",
+    "createdAt": "2026-06-02T23:47:57.207Z"
+  },
+  {
+    "parentName": "Budi 714",
+    "studentName": "Aditya 260",
+    "studentClass": "3",
+    "id": "0eb42df5-f954-4db9-abf6-c78e04d87f82",
+    "createdAt": "2026-06-02T22:50:05.804Z"
+  },
+  {
+    "parentName": "Dewi 493",
+    "studentName": "Alya 711",
+    "studentClass": "6",
+    "id": "6bb0b8b6-9986-4f40-b0f5-8a3d819ac138",
+    "createdAt": "2026-06-02T08:50:47.813Z"
+  },
+  {
+    "parentName": "Rina 736",
+    "studentName": "Alya 867",
+    "studentClass": "4",
+    "id": "a204c995-1999-4ff8-88ad-a94caa115ffd",
+    "createdAt": "2026-06-01T13:02:28.764Z"
+  },
+  {
+    "parentName": "Joko 195",
+    "studentName": "Gita 872",
+    "studentClass": "6",
+    "id": "ef6ff4c3-a9aa-4546-8e13-5e478213b207",
+    "createdAt": "2026-06-01T00:37:02.770Z"
+  },
+  {
+    "parentName": "Tono 727",
+    "studentName": "Naufal 419",
+    "studentClass": "3",
+    "id": "53096a03-b1e3-47ba-836c-9c02a7687109",
+    "createdAt": "2026-06-01T00:13:41.146Z"
+  },
+  {
+    "parentName": "Budi 486",
+    "studentName": "Naufal 525",
+    "studentClass": "1",
+    "id": "342c18c7-ee34-408a-a393-a5acb93decea",
+    "createdAt": "2026-05-31T22:56:38.566Z"
+  },
+  {
+    "parentName": "Rina 960",
+    "studentName": "Eka 850",
+    "studentClass": "1",
+    "id": "2cd403b7-c39a-4ea4-903d-7e2b06cbe468",
+    "createdAt": "2026-05-31T20:50:28.622Z"
+  },
+  {
+    "parentName": "Budi 264",
+    "studentName": "Gita 964",
+    "studentClass": "3",
+    "id": "4d05c8b5-5f1e-4bc4-b21c-871ab37c4a4e",
+    "createdAt": "2026-05-31T17:12:24.478Z"
+  },
+  {
+    "parentName": "Dewi 893",
+    "studentName": "Fajar 896",
+    "studentClass": "4",
+    "id": "031da457-2190-4930-a86b-2cbdbc762aa0",
+    "createdAt": "2026-05-30T13:01:53.154Z"
+  },
+  {
+    "parentName": "Rina 273",
+    "studentName": "Cinta 821",
+    "studentClass": "1",
+    "id": "fff8efb5-6fb1-422d-a90d-df7b8578ad40",
+    "createdAt": "2026-05-30T08:47:09.947Z"
+  },
+  {
+    "parentName": "Dewi 820",
+    "studentName": "Eka 535",
+    "studentClass": "3",
+    "id": "224cf87e-c495-4e88-bdfb-e66188b8c885",
+    "createdAt": "2026-05-30T05:23:17.963Z"
+  },
+  {
+    "parentName": "Ratna 981",
+    "studentName": "Naufal 20",
+    "studentClass": "4",
+    "id": "3baafc96-6d5d-4776-a92a-aed1e35ffefd",
+    "createdAt": "2026-05-29T18:45:27.251Z"
+  },
+  {
+    "parentName": "Hendro 951",
+    "studentName": "Hafiz 267",
+    "studentClass": "3",
+    "id": "3b3ecddf-d27c-4538-9042-2e19a750f6ba",
+    "createdAt": "2026-05-29T16:19:19.906Z"
+  },
+  {
+    "parentName": "Siti 452",
+    "studentName": "Naufal 683",
+    "studentClass": "4",
+    "id": "29a59c5a-c737-4f0c-a980-0b8396c2313e",
+    "createdAt": "2026-05-28T22:43:53.583Z"
+  },
+  {
+    "parentName": "Joko 440",
+    "studentName": "Bima 44",
+    "studentClass": "2",
+    "id": "c863109b-2e04-40fa-9127-bcdc8d64c8e8",
+    "createdAt": "2026-05-28T00:31:28.252Z"
+  },
+  {
+    "parentName": "Ratna 174",
+    "studentName": "Hafiz 37",
+    "studentClass": "4",
+    "id": "4cc5fdf3-dcad-4724-9bd4-3586d9110b28",
+    "createdAt": "2026-05-27T10:59:44.741Z"
+  },
+  {
+    "parentName": "Hadi 187",
+    "studentName": "Eka 758",
+    "studentClass": "1",
+    "id": "da85385b-43f0-4937-b14b-00ef0042f608",
+    "createdAt": "2026-05-26T07:52:40.324Z"
+  },
+  {
+    "parentName": "Joko 383",
+    "studentName": "Eka 92",
+    "studentClass": "6",
+    "id": "6c55b3b2-b965-490e-8ce5-b6e508a6ad09",
+    "createdAt": "2026-05-25T18:30:04.587Z"
+  },
+  {
+    "parentName": "Hendro 583",
+    "studentName": "Zahra 772",
+    "studentClass": "5",
+    "id": "4a6813ac-302e-446d-b075-6a75dde2a366",
+    "createdAt": "2026-05-25T09:37:01.328Z"
+  },
+  {
+    "parentName": "Agus 170",
+    "studentName": "Zahra 929",
+    "studentClass": "5",
+    "id": "f8b935bb-77a1-45a8-b87e-4dc640cf3a4a",
+    "createdAt": "2026-05-24T18:03:06.900Z"
+  },
+  {
+    "parentName": "Hendro 237",
+    "studentName": "Dimas 27",
+    "studentClass": "1",
+    "id": "be4bd005-e0ff-4e0b-83f9-58aa050bdeeb",
+    "createdAt": "2026-05-23T21:19:30.487Z"
+  },
+  {
+    "parentName": "Santi 466",
+    "studentName": "Fajar 597",
+    "studentClass": "4",
+    "id": "a8ca34b8-c24f-44ad-8b6a-2ff97fdbc4f2",
+    "createdAt": "2026-05-23T20:38:27.807Z"
+  },
+  {
+    "parentName": "Agus 367",
+    "studentName": "Aisyah 975",
+    "studentClass": "6",
+    "id": "075350d5-6c93-4248-a9d1-ac7a973b6803",
+    "createdAt": "2026-05-23T18:00:12.831Z"
+  },
+  {
+    "parentName": "Tono 170",
+    "studentName": "Eka 655",
+    "studentClass": "4",
+    "id": "c38117e2-86cc-49be-b5f2-dc0c1c571442",
+    "createdAt": "2026-05-23T01:31:10.360Z"
+  },
+  {
+    "parentName": "Hadi 360",
+    "studentName": "Cinta 525",
+    "studentClass": "6",
+    "id": "ebf93faa-fb7c-4f5a-9fc9-dbb2593a4bad",
+    "createdAt": "2026-05-22T21:50:50.834Z"
+  },
+  {
+    "parentName": "Ratna 1",
+    "studentName": "Intan 322",
+    "studentClass": "4",
+    "id": "96f5fba0-266a-4e0a-b0bb-af136a7e3392",
+    "createdAt": "2026-05-22T04:39:57.333Z"
+  },
+  {
+    "parentName": "Budi 236",
+    "studentName": "Intan 850",
+    "studentClass": "1",
+    "id": "b69fe5fa-1313-40e5-bf0f-63a44b82afbb",
+    "createdAt": "2026-05-22T00:03:29.328Z"
+  },
+  {
+    "parentName": "Tono 996",
+    "studentName": "Rangga 953",
+    "studentClass": "4",
+    "id": "d8dfe265-6753-4482-9020-20767a5fcb5a",
+    "createdAt": "2026-05-21T22:08:15.748Z"
+  },
+  {
+    "parentName": "Ratna 410",
+    "studentName": "Cinta 665",
+    "studentClass": "3",
+    "id": "894eae0c-3c3c-41ec-a4ed-26aabf85b845",
+    "createdAt": "2026-05-21T21:55:34.609Z"
+  },
+  {
+    "parentName": "Sri 937",
+    "studentName": "Zahra 891",
+    "studentClass": "3",
+    "id": "c7d43e3e-5e7d-4ef4-bd60-44d974053733",
+    "createdAt": "2026-05-21T07:35:43.701Z"
+  },
+  {
+    "parentName": "Nur 574",
+    "studentName": "Dimas 80",
+    "studentClass": "6",
+    "id": "6acd1cba-6d41-427d-b841-0a8609671d6b",
+    "createdAt": "2026-05-20T20:18:47.634Z"
+  },
+  {
+    "parentName": "Ratna 912",
+    "studentName": "Gita 633",
+    "studentClass": "1",
+    "id": "7c52dc8e-0831-4d33-b947-c98dd8d974e1",
+    "createdAt": "2026-05-19T22:22:16.208Z"
+  },
+  {
+    "parentName": "Agus 690",
+    "studentName": "Intan 263",
+    "studentClass": "4",
+    "id": "853fa98a-43ac-4772-ba81-2764414bc52a",
+    "createdAt": "2026-05-19T08:17:42.451Z"
+  },
+  {
+    "parentName": "Hendro 437",
+    "studentName": "Dimas 580",
+    "studentClass": "6",
+    "id": "15b79615-b7ad-4363-b23a-111524da7128",
+    "createdAt": "2026-05-19T05:31:16.936Z"
+  },
+  {
+    "parentName": "Tono 228",
+    "studentName": "Zahra 50",
+    "studentClass": "5",
+    "id": "cb20345c-6bb5-4e07-827a-aedc01b23c4e",
+    "createdAt": "2026-05-18T21:36:54.261Z"
+  },
+  {
+    "parentName": "Nur 93",
+    "studentName": "Fajar 52",
+    "studentClass": "2",
+    "id": "00baa337-21d3-4c2b-826e-1da3e343e854",
+    "createdAt": "2026-05-17T23:54:33.147Z"
+  },
+  {
+    "parentName": "Hendro 392",
+    "studentName": "Aisyah 154",
+    "studentClass": "6",
+    "id": "33e20985-7203-46c0-b015-43725c9213f9",
+    "createdAt": "2026-05-17T21:03:25.823Z"
+  },
+  {
+    "parentName": "Hendro 992",
+    "studentName": "Alya 709",
+    "studentClass": "5",
+    "id": "d177fc6d-ba0e-406c-b96e-217c716e405c",
+    "createdAt": "2026-05-17T07:49:35.338Z"
+  },
+  {
+    "parentName": "Dewi 310",
+    "studentName": "Cinta 427",
+    "studentClass": "1",
+    "id": "94a9a593-64b2-40ea-86d0-27619cc6e4dc",
+    "createdAt": "2026-05-16T11:23:43.169Z"
+  },
+  {
+    "parentName": "Hadi 672",
+    "studentName": "Zahra 893",
+    "studentClass": "4",
+    "id": "941604ee-a8ae-4c09-a7ea-fea5b8d82361",
+    "createdAt": "2026-05-16T06:31:44.193Z"
+  },
+  {
+    "parentName": "Rina 582",
+    "studentName": "Alya 118",
+    "studentClass": "4",
+    "id": "6a1cd657-a4ee-406c-9bcc-10147b82254d",
+    "createdAt": "2026-05-15T22:51:27.669Z"
+  },
+  {
+    "parentName": "Ratna 150",
+    "studentName": "Fajar 880",
+    "studentClass": "6",
+    "id": "1cef2495-a971-4a0c-a695-5eb1cdb5f9e5",
+    "createdAt": "2026-05-15T15:54:30.932Z"
+  },
+  {
+    "parentName": "Hendro 150",
+    "studentName": "Hafiz 323",
+    "studentClass": "4",
+    "id": "bd19c6f4-f369-40e7-9e55-2802b22f6676",
+    "createdAt": "2026-05-15T04:48:01.278Z"
+  },
+  {
+    "parentName": "Andi 962",
+    "studentName": "Alya 462",
+    "studentClass": "5",
+    "id": "b444f1f6-3aa7-429d-9f7e-3f9ee2837394",
+    "createdAt": "2026-05-15T03:28:53.712Z"
+  },
+  {
+    "parentName": "Agus 555",
+    "studentName": "Alya 881",
+    "studentClass": "1",
+    "id": "86af85f4-f659-4749-9103-66ab353cf1cb",
+    "createdAt": "2026-05-14T23:40:31.499Z"
+  },
+  {
+    "parentName": "Agus 935",
+    "studentName": "Intan 783",
+    "studentClass": "4",
+    "id": "6588edf7-41cc-4e35-bf31-2396cd15222d",
+    "createdAt": "2026-05-14T14:05:24.422Z"
+  },
+  {
+    "parentName": "Dewi 181",
+    "studentName": "Zahra 629",
+    "studentClass": "5",
+    "id": "8519d1ad-30d2-462e-9a9a-7f12fa3f4169",
+    "createdAt": "2026-05-14T03:46:34.380Z"
+  },
+  {
+    "parentName": "Nur 98",
+    "studentName": "Gita 780",
+    "studentClass": "4",
+    "id": "ae901fbc-a3c0-4bec-b612-ece0225f9b1f",
+    "createdAt": "2026-05-13T16:03:48.717Z"
+  },
+  {
+    "parentName": "Ratna 300",
+    "studentName": "Intan 704",
+    "studentClass": "3",
+    "id": "2913a3b6-7d59-49c7-a525-38f6653daab7",
+    "createdAt": "2026-05-13T07:45:07.944Z"
+  },
+  {
+    "parentName": "Dewi 750",
+    "studentName": "Fajar 485",
+    "studentClass": "1",
+    "id": "03d41bd9-1711-4319-8032-65f035ec7e32",
+    "createdAt": "2026-05-13T04:46:03.044Z"
+  },
+  {
+    "parentName": "Hadi 111",
+    "studentName": "Hafiz 25",
+    "studentClass": "4",
+    "id": "981cb96e-6de8-4c34-858d-ccb24074f461",
+    "createdAt": "2026-05-13T04:28:12.131Z"
+  },
+  {
+    "parentName": "Rina 136",
+    "studentName": "Bima 560",
+    "studentClass": "5",
+    "id": "46d7aa8d-4a87-4275-a92e-d2aac011671e",
+    "createdAt": "2026-05-13T03:37:39.643Z"
+  },
+  {
+    "parentName": "Sri 455",
+    "studentName": "Rangga 432",
+    "studentClass": "4",
+    "id": "abfc33d3-7884-4cf4-885a-e8768caff65c",
+    "createdAt": "2026-05-12T15:39:48.974Z"
+  },
+  {
+    "parentName": "Tono 656",
+    "studentName": "Zahra 71",
+    "studentClass": "2",
+    "id": "84067a48-da4b-4bee-a25e-414096521723",
+    "createdAt": "2026-05-12T00:37:07.897Z"
+  },
+  {
+    "parentName": "Agus 543",
+    "studentName": "Aditya 286",
+    "studentClass": "1",
+    "id": "e1dd34fe-8be6-4be7-b927-911a50d6f561",
+    "createdAt": "2026-05-11T23:13:12.752Z"
+  },
+  {
+    "parentName": "Joko 477",
+    "studentName": "Zahra 147",
+    "studentClass": "6",
+    "id": "f02819b3-2cb9-4e37-9a7a-24beeda813c2",
+    "createdAt": "2026-05-11T20:03:42.081Z"
+  },
+  {
+    "parentName": "Ratna 889",
+    "studentName": "Rangga 77",
+    "studentClass": "3",
+    "id": "37bb356d-b906-4291-bf4e-f96022af9914",
+    "createdAt": "2026-05-11T16:12:42.153Z"
+  },
+  {
+    "parentName": "Siti 520",
+    "studentName": "Eka 239",
+    "studentClass": "1",
+    "id": "26f4c541-c1bf-4aaa-a634-2732d38289ac",
+    "createdAt": "2026-05-11T08:30:33.833Z"
+  },
+  {
+    "parentName": "Sri 176",
+    "studentName": "Fajar 487",
+    "studentClass": "3",
+    "id": "c01f5eb8-04d9-49f1-b767-749bae6e006f",
+    "createdAt": "2026-05-10T14:12:43.503Z"
+  },
+  {
+    "parentName": "Agus 687",
+    "studentName": "Gita 805",
+    "studentClass": "3",
+    "id": "7f5e377b-41ed-49f7-ae9e-b9427bae7c5e",
+    "createdAt": "2026-05-10T13:50:39.550Z"
+  },
+  {
+    "parentName": "Santi 494",
+    "studentName": "Gita 585",
+    "studentClass": "3",
+    "id": "d48cc14e-6b04-4bb4-8d80-7c427dcee512",
+    "createdAt": "2026-05-09T14:53:45.649Z"
+  },
+  {
+    "parentName": "Tono 67",
+    "studentName": "Eka 584",
+    "studentClass": "6",
+    "id": "c8e42d8c-c52f-40d7-973b-60156a19c94d",
+    "createdAt": "2026-05-09T13:21:24.083Z"
+  },
+  {
+    "parentName": "Santi 492",
+    "studentName": "Eka 197",
+    "studentClass": "5",
+    "id": "5af83e18-caff-42dd-a46a-0ad700ed2c71",
+    "createdAt": "2026-05-09T03:13:28.023Z"
+  },
+  {
+    "parentName": "Siti 461",
+    "studentName": "Naufal 442",
+    "studentClass": "5",
+    "id": "082b013e-13a4-464c-96ca-ca54bd0a93fb",
+    "createdAt": "2026-05-08T13:17:29.504Z"
+  },
+  {
+    "parentName": "Nur 123",
+    "studentName": "Hafiz 354",
+    "studentClass": "5",
+    "id": "34b98c0b-d755-486d-9a0c-f98499ce7514",
+    "createdAt": "2026-05-08T10:29:39.720Z"
+  },
+  {
+    "parentName": "Joko 56",
+    "studentName": "Hafiz 33",
+    "studentClass": "4",
+    "id": "32495350-43ae-4662-8156-c1700e82cf08",
+    "createdAt": "2026-05-08T01:17:29.966Z"
+  },
+  {
+    "parentName": "Siti 900",
+    "studentName": "Eka 184",
+    "studentClass": "4",
+    "id": "0cd34a93-1705-42f6-b188-96473d84bc8e",
+    "createdAt": "2026-05-07T21:10:20.291Z"
+  },
+  {
+    "parentName": "Rina 26",
+    "studentName": "Cinta 843",
+    "studentClass": "5",
+    "id": "ecfa5e87-902b-4170-8c97-705d5fd029e1",
+    "createdAt": "2026-05-07T20:48:23.748Z"
+  },
+  {
+    "parentName": "Sri 397",
+    "studentName": "Gita 563",
+    "studentClass": "2",
+    "id": "3da800a8-4731-4fb9-8fc4-86e08eb49f01",
+    "createdAt": "2026-05-07T17:35:55.643Z"
+  },
+  {
+    "parentName": "Agus 877",
+    "studentName": "Fajar 568",
+    "studentClass": "1",
+    "id": "6baffc84-28b3-465a-af00-df29379682e8",
+    "createdAt": "2026-05-07T17:02:50.351Z"
+  },
+  {
+    "parentName": "Hadi 93",
+    "studentName": "Gita 631",
+    "studentClass": "4",
+    "id": "75d3d643-7ea6-496c-93a1-46332b3eab0a",
+    "createdAt": "2026-05-07T05:29:31.931Z"
+  },
+  {
+    "parentName": "Ratna 994",
+    "studentName": "Fajar 893",
+    "studentClass": "1",
+    "id": "487a071a-7b24-4384-b584-272e7a97239c",
+    "createdAt": "2026-05-06T16:21:53.283Z"
+  },
+  {
+    "parentName": "Santi 763",
+    "studentName": "Naufal 344",
+    "studentClass": "5",
+    "id": "ca31c376-9f13-401b-b3fe-400e0dae5d47",
+    "createdAt": "2026-05-06T07:09:03.079Z"
+  },
+  {
+    "parentName": "Sri 43",
+    "studentName": "Naufal 813",
+    "studentClass": "2",
+    "id": "b1cc5bb7-2658-409c-a023-676d3617767a",
+    "createdAt": "2026-05-06T06:47:11.808Z"
+  },
+  {
+    "parentName": "Siti 394",
+    "studentName": "Intan 535",
+    "studentClass": "5",
+    "id": "0150558d-00f8-422e-a11b-b9817df57373",
+    "createdAt": "2026-05-05T20:19:34.030Z"
+  },
+  {
+    "parentName": "Siti 905",
+    "studentName": "Intan 173",
+    "studentClass": "1",
+    "id": "ca25111d-bb16-477d-bb9f-5e9271204513",
+    "createdAt": "2026-05-05T16:59:40.601Z"
+  },
+  {
+    "parentName": "Siti 375",
+    "studentName": "Dimas 766",
+    "studentClass": "4",
+    "id": "90b80a4c-4788-4561-ac24-6b13f1e7ef32",
+    "createdAt": "2026-05-05T03:46:10.894Z"
+  },
+  {
+    "parentName": "Hendro 680",
+    "studentName": "Bima 883",
+    "studentClass": "3",
+    "id": "6b08d08c-368d-4195-beda-96aaf36da214",
+    "createdAt": "2026-05-04T23:24:18.414Z"
+  },
+  {
+    "parentName": "Siti 51",
+    "studentName": "Hafiz 549",
+    "studentClass": "5",
+    "id": "461ffa37-d16a-4f5e-bd97-a639c3e3b135",
+    "createdAt": "2026-05-03T10:13:27.968Z"
+  },
+  {
+    "parentName": "Hadi 908",
+    "studentName": "Eka 374",
+    "studentClass": "4",
+    "id": "9f736bad-c09c-4bb1-b8c8-d3dd3386c7e2",
+    "createdAt": "2026-05-02T15:17:27.818Z"
+  },
+  {
+    "parentName": "Nur 841",
+    "studentName": "Alya 953",
+    "studentClass": "6",
+    "id": "cc7425b6-ecbe-48c5-8a42-2f82203cb950",
+    "createdAt": "2026-05-02T12:08:50.416Z"
+  },
+  {
+    "parentName": "Siti 763",
+    "studentName": "Rangga 277",
+    "studentClass": "6",
+    "id": "48bb4435-d847-45f5-87aa-d4435d6ef7b6",
+    "createdAt": "2026-05-02T07:52:33.983Z"
+  },
+  {
+    "parentName": "Andi 559",
+    "studentName": "Eka 146",
+    "studentClass": "6",
+    "id": "48a1c75b-4f2d-4ca1-ba2e-fc8964a8eaec",
+    "createdAt": "2026-05-02T00:14:00.920Z"
+  },
+  {
+    "parentName": "Ratna 164",
+    "studentName": "Intan 516",
+    "studentClass": "6",
+    "id": "26784475-5f0f-4922-ad40-fc11c59dab18",
+    "createdAt": "2026-05-01T23:04:57.686Z"
+  },
+  {
+    "parentName": "Joko 404",
+    "studentName": "Intan 622",
+    "studentClass": "3",
+    "id": "93906d94-04e5-4420-a985-e847451b1f63",
+    "createdAt": "2026-05-01T18:22:38.593Z"
+  },
+  {
+    "parentName": "Agus 992",
+    "studentName": "Naufal 346",
+    "studentClass": "3",
+    "id": "3cc86139-5272-4e70-bcbe-afcb8797087b",
+    "createdAt": "2026-05-01T17:18:32.077Z"
+  },
+  {
+    "parentName": "Hadi 74",
+    "studentName": "Dimas 72",
+    "studentClass": "5",
+    "id": "4dc16a46-b6cc-4fbc-8e14-2be645ba9d83",
+    "createdAt": "2026-05-01T13:38:15.877Z"
+  },
+  {
+    "parentName": "Rina 71",
+    "studentName": "Fajar 554",
+    "studentClass": "3",
+    "id": "bc3a4b40-506e-4016-aa01-a51de54bcdd3",
+    "createdAt": "2026-04-30T22:51:46.305Z"
+  },
+  {
+    "parentName": "Budi 392",
+    "studentName": "Bima 68",
+    "studentClass": "6",
+    "id": "315fa1ed-c8d7-45e6-8c0d-33964337b54d",
+    "createdAt": "2026-04-30T16:34:57.023Z"
+  },
+  {
+    "parentName": "Ratna 101",
+    "studentName": "Alya 625",
+    "studentClass": "4",
+    "id": "e3d63278-3473-4429-b175-4993ae25a572",
+    "createdAt": "2026-04-30T15:27:46.977Z"
+  },
+  {
+    "parentName": "Agus 191",
+    "studentName": "Aisyah 835",
+    "studentClass": "3",
+    "id": "04bf555f-2f4d-488e-a15c-0b93c6f09958",
+    "createdAt": "2026-04-28T17:27:52.747Z"
+  },
+  {
+    "parentName": "Andi 705",
+    "studentName": "Alya 925",
+    "studentClass": "2",
+    "id": "ec1ef96a-9328-445d-a91a-e0b60d2a2284",
+    "createdAt": "2026-04-28T16:33:12.755Z"
+  },
+  {
+    "parentName": "Siti 71",
+    "studentName": "Naufal 303",
+    "studentClass": "3",
+    "id": "15db870b-d81f-4086-a8e4-addf8f7830dd",
+    "createdAt": "2026-04-27T04:23:24.226Z"
+  },
+  {
+    "parentName": "Andi 734",
+    "studentName": "Zahra 757",
+    "studentClass": "5",
+    "id": "d846e6d3-1412-47cc-b61d-5cee93318a7a",
+    "createdAt": "2026-04-27T04:13:41.579Z"
+  },
+  {
+    "parentName": "Ratna 996",
+    "studentName": "Fajar 756",
+    "studentClass": "3",
+    "id": "4c170afb-77bf-4bba-a471-376422185625",
+    "createdAt": "2026-04-26T22:34:26.761Z"
+  },
+  {
+    "parentName": "Nur 211",
+    "studentName": "Eka 206",
+    "studentClass": "4",
+    "id": "33837ec6-afee-4cef-83d3-d1d5a12616b6",
+    "createdAt": "2026-04-26T14:22:22.154Z"
+  },
+  {
+    "parentName": "Hadi 358",
+    "studentName": "Fajar 9",
+    "studentClass": "5",
+    "id": "328383e9-3faf-4372-910d-8f88c35103b4",
+    "createdAt": "2026-04-25T21:45:39.794Z"
+  },
+  {
+    "parentName": "Ratna 19",
+    "studentName": "Aisyah 975",
+    "studentClass": "1",
+    "id": "3f025b41-521b-48cf-9f39-698395883967",
+    "createdAt": "2026-04-25T21:22:07.325Z"
+  },
+  {
+    "parentName": "Agus 339",
+    "studentName": "Eka 27",
+    "studentClass": "2",
+    "id": "6b542fca-43df-4e66-ab1c-e3ba4bcc3122",
+    "createdAt": "2026-04-25T20:38:50.386Z"
+  },
+  {
+    "parentName": "Joko 14",
+    "studentName": "Aditya 165",
+    "studentClass": "5",
+    "id": "4ab00139-56c8-4a02-8ae4-f11f8b499183",
+    "createdAt": "2026-04-25T06:57:27.663Z"
+  },
+  {
+    "parentName": "Sri 210",
+    "studentName": "Naufal 892",
+    "studentClass": "2",
+    "id": "3a7a1ba0-4a6a-4547-9506-e0e3be06f716",
+    "createdAt": "2026-04-24T23:44:00.727Z"
+  },
+  {
+    "parentName": "Budi 285",
+    "studentName": "Gita 314",
+    "studentClass": "5",
+    "id": "1f08cda5-2a9f-4138-b6ce-03bc78f0a7a1",
+    "createdAt": "2026-04-24T18:05:20.008Z"
+  },
+  {
+    "parentName": "Andi 292",
+    "studentName": "Gita 118",
+    "studentClass": "1",
+    "id": "ea805942-dbbe-49ea-abe3-543e8187ab6b",
+    "createdAt": "2026-04-24T12:55:15.665Z"
+  },
+  {
+    "parentName": "Agus 352",
+    "studentName": "Eka 367",
+    "studentClass": "1",
+    "id": "141031f3-0903-4cd5-9ee4-45097dc3b52d",
+    "createdAt": "2026-04-24T10:17:09.230Z"
+  },
+  {
+    "parentName": "Tono 654",
+    "studentName": "Dimas 832",
+    "studentClass": "2",
+    "id": "6f451896-ea5e-4b9f-a3b3-df1f8606f1b8",
+    "createdAt": "2026-04-24T08:28:47.879Z"
+  },
+  {
+    "parentName": "Nur 983",
+    "studentName": "Dimas 723",
+    "studentClass": "5",
+    "id": "7158fbb2-a122-4009-b802-6080f102e135",
+    "createdAt": "2026-04-23T23:28:28.290Z"
+  },
+  {
+    "parentName": "Joko 531",
+    "studentName": "Intan 53",
+    "studentClass": "4",
+    "id": "dc96ffb0-04bc-4ce2-aaa7-9087a4033409",
+    "createdAt": "2026-04-23T15:39:23.633Z"
+  },
+  {
+    "parentName": "Tono 484",
+    "studentName": "Eka 755",
+    "studentClass": "4",
+    "id": "387b057f-8607-4f68-97f9-628e9c7aa925",
+    "createdAt": "2026-04-23T14:59:11.913Z"
+  },
+  {
+    "parentName": "Sri 39",
+    "studentName": "Naufal 701",
+    "studentClass": "6",
+    "id": "2cdad3e1-79dd-49b4-bd49-38c5529bce17",
+    "createdAt": "2026-04-23T09:20:36.030Z"
+  },
+  {
+    "parentName": "Agus 948",
+    "studentName": "Aisyah 773",
+    "studentClass": "6",
+    "id": "267b90db-d2fe-4f97-8ac6-7eb749bb353d",
+    "createdAt": "2026-04-22T22:40:00.543Z"
+  },
+  {
+    "parentName": "Budi 705",
+    "studentName": "Dimas 19",
+    "studentClass": "5",
+    "id": "7f60b345-27c9-426b-a37c-03b67faab1b6",
+    "createdAt": "2026-04-22T04:07:33.345Z"
+  },
+  {
+    "parentName": "Sri 624",
+    "studentName": "Fajar 297",
+    "studentClass": "5",
+    "id": "d279356c-c53c-423e-8652-598d9bf7b7b7",
+    "createdAt": "2026-04-21T17:44:25.667Z"
+  },
+  {
+    "parentName": "Tono 869",
+    "studentName": "Aisyah 530",
+    "studentClass": "2",
+    "id": "cdddc524-dd6e-460c-9733-97f631092ac7",
+    "createdAt": "2026-04-21T15:45:46.594Z"
+  },
+  {
+    "parentName": "Nur 66",
+    "studentName": "Gita 391",
+    "studentClass": "3",
+    "id": "fa37bf39-9486-49b9-a126-18f23832ab24",
+    "createdAt": "2026-04-21T13:01:43.920Z"
+  },
+  {
+    "parentName": "Andi 698",
+    "studentName": "Hafiz 237",
+    "studentClass": "4",
+    "id": "5b988f1c-1abb-4a35-aa32-8f2730df77fe",
+    "createdAt": "2026-04-21T10:24:17.199Z"
+  },
+  {
+    "parentName": "Ratna 753",
+    "studentName": "Bima 853",
+    "studentClass": "4",
+    "id": "a4245aa6-aeb1-4fb2-82af-163e762f33d0",
+    "createdAt": "2026-04-21T08:10:16.275Z"
+  },
+  {
+    "parentName": "Siti 186",
+    "studentName": "Zahra 306",
+    "studentClass": "4",
+    "id": "de90abfa-c167-44e4-931e-df09727dc19e",
+    "createdAt": "2026-04-21T06:49:16.872Z"
+  },
+  {
+    "parentName": "Agus 922",
+    "studentName": "Hafiz 654",
+    "studentClass": "2",
+    "id": "3a8c3851-7c36-4da9-af28-7346eb4ba621",
+    "createdAt": "2026-04-20T23:58:05.321Z"
+  },
+  {
+    "parentName": "Ratna 928",
+    "studentName": "Cinta 692",
+    "studentClass": "1",
+    "id": "087d25b3-0abb-4710-9f13-cd7ea045b55d",
+    "createdAt": "2026-04-20T20:37:11.658Z"
+  },
+  {
+    "parentName": "Joko 183",
+    "studentName": "Rangga 570",
+    "studentClass": "2",
+    "id": "69033811-7ecf-4c91-8ca2-09ae9f33f248",
+    "createdAt": "2026-04-20T01:42:42.015Z"
+  },
+  {
+    "parentName": "Hendro 556",
+    "studentName": "Rangga 322",
+    "studentClass": "6",
+    "id": "f42804ab-3c62-49df-8a63-1f7923c884f4",
+    "createdAt": "2026-04-20T00:57:04.990Z"
+  },
+  {
+    "parentName": "Agus 250",
+    "studentName": "Alya 635",
+    "studentClass": "2",
+    "id": "f72f1755-04c9-41fb-9c3f-571bb3ceac50",
+    "createdAt": "2026-04-19T22:51:21.794Z"
+  },
+  {
+    "parentName": "Sri 643",
+    "studentName": "Eka 995",
+    "studentClass": "5",
+    "id": "42c9ba86-c824-4444-abf6-9b5ec7d6bb04",
+    "createdAt": "2026-04-19T12:12:19.766Z"
+  },
+  {
+    "parentName": "Dewi 907",
+    "studentName": "Fajar 492",
+    "studentClass": "4",
+    "id": "287d8975-f84a-4420-8c0b-969ff8bb03ac",
+    "createdAt": "2026-04-19T07:21:09.006Z"
+  },
+  {
+    "parentName": "Budi 824",
+    "studentName": "Aditya 228",
+    "studentClass": "4",
+    "id": "c57c6a4a-a2c3-4ecc-8d98-9769c3ddfda0",
+    "createdAt": "2026-04-19T02:54:29.684Z"
+  },
+  {
+    "parentName": "Rina 820",
+    "studentName": "Bima 751",
+    "studentClass": "1",
+    "id": "71d884ba-d365-422d-bc33-0bec8e3a4a44",
+    "createdAt": "2026-04-18T20:57:04.187Z"
+  },
+  {
+    "parentName": "Dewi 243",
+    "studentName": "Dimas 902",
+    "studentClass": "4",
+    "id": "e33bbd3c-fbbb-4baa-a58d-ea229c79c50c",
+    "createdAt": "2026-04-18T15:17:38.997Z"
+  },
+  {
+    "parentName": "Nur 71",
+    "studentName": "Cinta 590",
+    "studentClass": "1",
+    "id": "64c61717-f741-46a7-91db-97c69c6786d0",
+    "createdAt": "2026-04-18T13:22:35.865Z"
+  },
+  {
+    "parentName": "Agus 582",
+    "studentName": "Zahra 942",
+    "studentClass": "5",
+    "id": "5a14b8ad-e9e6-48b5-af04-f0ece2142da6",
+    "createdAt": "2026-04-18T09:23:28.692Z"
+  },
+  {
+    "parentName": "Joko 721",
+    "studentName": "Hafiz 493",
+    "studentClass": "6",
+    "id": "cb79bbd3-26ef-4426-b419-a93c6caad1a8",
+    "createdAt": "2026-04-17T04:21:50.279Z"
+  },
+  {
+    "parentName": "Dewi 845",
+    "studentName": "Dimas 825",
+    "studentClass": "5",
+    "id": "df869a0a-42f5-41e3-bbfc-d40a7ba6de1b",
+    "createdAt": "2026-04-17T01:59:27.515Z"
+  },
+  {
+    "parentName": "Budi 156",
+    "studentName": "Intan 254",
+    "studentClass": "5",
+    "id": "c91d1e86-f468-43e4-a916-168ab3ad3ac5",
+    "createdAt": "2026-04-16T05:23:32.821Z"
+  },
+  {
+    "parentName": "Hendro 229",
+    "studentName": "Gita 498",
+    "studentClass": "6",
+    "id": "a801971d-cef3-4a48-97a9-75ffde889ca2",
+    "createdAt": "2026-04-15T16:51:13.807Z"
+  },
+  {
+    "parentName": "Agus 627",
+    "studentName": "Cinta 861",
+    "studentClass": "2",
+    "id": "c330503d-9ec2-48cc-9b5a-9183a378061a",
+    "createdAt": "2026-04-15T14:23:28.560Z"
+  },
+  {
+    "parentName": "Ratna 90",
+    "studentName": "Bima 871",
+    "studentClass": "6",
+    "id": "4d3a4776-340a-4c23-a681-58034cd8f98f",
+    "createdAt": "2026-04-15T08:53:48.285Z"
+  },
+  {
+    "parentName": "Hadi 828",
+    "studentName": "Intan 947",
+    "studentClass": "5",
+    "id": "abdaeef0-bfd0-42c9-a1c2-53a7beb90abd",
+    "createdAt": "2026-04-15T00:21:29.309Z"
+  },
+  {
+    "parentName": "Siti 801",
+    "studentName": "Eka 364",
+    "studentClass": "1",
+    "id": "2955bf44-0446-4afd-a487-29d57bf8b37e",
+    "createdAt": "2026-04-14T21:46:43.121Z"
+  },
+  {
+    "parentName": "Ratna 145",
+    "studentName": "Gita 173",
+    "studentClass": "5",
+    "id": "a3614b5d-df61-460a-abb1-7a3047b502a7",
+    "createdAt": "2026-04-14T14:18:26.538Z"
+  },
+  {
+    "parentName": "Tono 850",
+    "studentName": "Intan 64",
+    "studentClass": "3",
+    "id": "eaf0265a-94ed-4e54-aad9-67059b77db21",
+    "createdAt": "2026-04-14T08:56:04.188Z"
+  },
+  {
+    "parentName": "Tono 465",
+    "studentName": "Aditya 801",
+    "studentClass": "1",
+    "id": "3060c0a4-6777-402f-92f2-f33ca89f771b",
+    "createdAt": "2026-04-14T02:25:49.367Z"
+  },
+  {
+    "parentName": "Dewi 997",
+    "studentName": "Eka 97",
+    "studentClass": "1",
+    "id": "9c430b0f-abea-4bd1-9fb3-c7db30f0d289",
+    "createdAt": "2026-04-13T18:53:48.266Z"
+  },
+  {
+    "parentName": "Agus 634",
+    "studentName": "Alya 224",
+    "studentClass": "3",
+    "id": "21bbab3d-e9e6-4de2-96bf-432df03eafc9",
+    "createdAt": "2026-04-13T17:03:11.204Z"
+  },
+  {
+    "parentName": "Andi 13",
+    "studentName": "Aisyah 589",
+    "studentClass": "5",
+    "id": "d0936a8c-2752-43cc-8e52-66bcb44eb8f3",
+    "createdAt": "2026-04-13T10:32:10.078Z"
+  },
+  {
+    "parentName": "Sri 567",
+    "studentName": "Dimas 559",
+    "studentClass": "5",
+    "id": "886d14ea-4d34-4429-9589-59ff6ffef207",
+    "createdAt": "2026-04-13T10:23:18.390Z"
+  },
+  {
+    "parentName": "Nur 5",
+    "studentName": "Gita 722",
+    "studentClass": "3",
+    "id": "6cd0a53f-35fc-4f83-b3fe-f9de6a65b775",
+    "createdAt": "2026-04-13T04:31:43.827Z"
+  },
+  {
+    "parentName": "Hendro 74",
+    "studentName": "Gita 745",
+    "studentClass": "6",
+    "id": "20050817-cc5f-4b0a-9763-6e996c5dd6ce",
+    "createdAt": "2026-04-12T06:28:08.281Z"
+  },
+  {
+    "parentName": "Andi 714",
+    "studentName": "Hafiz 303",
+    "studentClass": "4",
+    "id": "9f38f5c5-7424-48f1-9821-540ff1bf7044",
+    "createdAt": "2026-04-12T06:16:11.235Z"
+  },
+  {
+    "parentName": "Hendro 176",
+    "studentName": "Aisyah 556",
+    "studentClass": "1",
+    "id": "494e2589-a8b0-472c-bca2-3af33c5006e4",
+    "createdAt": "2026-04-12T05:59:43.399Z"
+  },
+  {
+    "parentName": "Tono 533",
+    "studentName": "Aditya 182",
+    "studentClass": "4",
+    "id": "4665b876-c658-4961-aff8-429e32b4d1cb",
+    "createdAt": "2026-04-11T11:19:43.910Z"
+  },
+  {
+    "parentName": "Siti 653",
+    "studentName": "Intan 641",
+    "studentClass": "5",
+    "id": "e5bbf878-01a2-4579-babb-0fa3dee5f21a",
+    "createdAt": "2026-04-11T01:01:36.075Z"
+  },
+  {
+    "parentName": "Dewi 204",
+    "studentName": "Hafiz 620",
+    "studentClass": "1",
+    "id": "7eff39c8-e0ab-4112-a86f-741386e38e18",
+    "createdAt": "2026-04-10T13:21:26.131Z"
+  },
+  {
+    "parentName": "Santi 777",
+    "studentName": "Aisyah 466",
+    "studentClass": "1",
+    "id": "7597ebca-27b0-4a13-88b6-d40e855765bf",
+    "createdAt": "2026-04-10T11:29:51.610Z"
+  },
+  {
+    "parentName": "Sri 44",
+    "studentName": "Intan 258",
+    "studentClass": "3",
+    "id": "a047137f-d8d7-4b6a-ae24-6c664cc3643f",
+    "createdAt": "2026-04-09T21:41:39.434Z"
+  },
+  {
+    "parentName": "Ratna 223",
+    "studentName": "Cinta 987",
+    "studentClass": "3",
+    "id": "e23a56fd-119c-443f-8341-a6b029e12a19",
+    "createdAt": "2026-04-09T15:40:30.209Z"
+  },
+  {
+    "parentName": "Sri 100",
+    "studentName": "Hafiz 292",
+    "studentClass": "6",
+    "id": "53df99c2-6847-4405-bb86-dd33fb620e63",
+    "createdAt": "2026-04-07T09:31:49.924Z"
+  },
+  {
+    "parentName": "Andi 284",
+    "studentName": "Dimas 903",
+    "studentClass": "5",
+    "id": "dd18c96f-3349-4641-b24d-8a1f163c6011",
+    "createdAt": "2026-04-06T20:21:40.907Z"
+  },
+  {
+    "parentName": "Joko 156",
+    "studentName": "Cinta 532",
+    "studentClass": "6",
+    "id": "ba118fb8-fb5f-4bc7-b2d0-15a12d414aa5",
+    "createdAt": "2026-04-06T03:47:21.072Z"
+  },
+  {
+    "parentName": "Nur 670",
+    "studentName": "Fajar 159",
+    "studentClass": "6",
+    "id": "c054aee1-5d97-4edf-9f75-8567f27e9cc5",
+    "createdAt": "2026-04-05T21:18:06.286Z"
+  },
+  {
+    "parentName": "Tono 833",
+    "studentName": "Fajar 770",
+    "studentClass": "6",
+    "id": "0a0894be-c32d-441a-b15f-da0a50ff6966",
+    "createdAt": "2026-04-05T21:04:52.004Z"
+  },
+  {
+    "parentName": "Andi 304",
+    "studentName": "Naufal 118",
+    "studentClass": "4",
+    "id": "1a642c8a-478e-45e2-a8b3-7701ae86d3f2",
+    "createdAt": "2026-04-05T15:37:02.075Z"
+  },
+  {
+    "parentName": "Hendro 653",
+    "studentName": "Rangga 235",
+    "studentClass": "4",
+    "id": "16c0a89a-ded1-456c-8cbc-0f7dd1d690ff",
+    "createdAt": "2026-04-05T11:18:43.515Z"
+  },
+  {
+    "parentName": "Agus 170",
+    "studentName": "Rangga 224",
+    "studentClass": "5",
+    "id": "664c4702-a51a-48c9-9f26-ea0779a45a25",
+    "createdAt": "2026-04-05T03:26:52.523Z"
+  },
+  {
+    "parentName": "Hendro 840",
+    "studentName": "Gita 348",
+    "studentClass": "3",
+    "id": "45c3415c-13ce-41a9-8f32-c82f56b1d471",
+    "createdAt": "2026-04-04T13:59:55.132Z"
+  },
+  {
+    "parentName": "Rina 185",
+    "studentName": "Rangga 115",
+    "studentClass": "4",
+    "id": "792a8856-2506-435a-900d-13d38b546a71",
+    "createdAt": "2026-04-04T12:56:57.948Z"
+  },
+  {
+    "parentName": "Nur 763",
+    "studentName": "Intan 118",
+    "studentClass": "1",
+    "id": "1cffd0cf-8940-4249-bb5e-b15e5cc81397",
+    "createdAt": "2026-04-04T05:48:19.201Z"
+  },
+  {
+    "parentName": "Hendro 124",
+    "studentName": "Hafiz 808",
+    "studentClass": "3",
+    "id": "195ebbb0-da29-4b8c-9e4e-5b362ab9c1d8",
+    "createdAt": "2026-04-03T08:07:52.455Z"
+  },
+  {
+    "parentName": "Hadi 966",
+    "studentName": "Alya 984",
+    "studentClass": "4",
+    "id": "d04b0a65-f410-42e4-8bef-ab12b82d2220",
+    "createdAt": "2026-04-03T04:41:55.388Z"
+  },
+  {
+    "parentName": "Andi 171",
+    "studentName": "Fajar 601",
+    "studentClass": "4",
+    "id": "2360276e-02f8-4026-930b-57884499add4",
+    "createdAt": "2026-04-02T17:50:52.114Z"
+  },
+  {
+    "parentName": "Agus 696",
+    "studentName": "Cinta 616",
+    "studentClass": "6",
+    "id": "8dec06c4-38a6-4e40-bfbe-d80bf473cc04",
+    "createdAt": "2026-04-02T15:43:57.844Z"
+  },
+  {
+    "parentName": "Rina 747",
+    "studentName": "Hafiz 408",
+    "studentClass": "3",
+    "id": "0dfe9a13-466b-4f9a-9f8f-22080813fc3c",
+    "createdAt": "2026-04-02T15:37:03.324Z"
+  },
+  {
+    "parentName": "Budi 976",
+    "studentName": "Bima 186",
+    "studentClass": "5",
+    "id": "26072a54-445a-4fcb-8340-cf9cd3bc3831",
+    "createdAt": "2026-04-02T15:01:24.981Z"
+  },
+  {
+    "parentName": "Tono 968",
+    "studentName": "Naufal 419",
+    "studentClass": "6",
+    "id": "62e6f543-39e7-4314-a827-ba78dc16c414",
+    "createdAt": "2026-04-02T06:17:52.629Z"
+  },
+  {
+    "parentName": "Ratna 278",
+    "studentName": "Dimas 817",
+    "studentClass": "2",
+    "id": "b5190cba-6054-43f0-8bb4-9a01944eecb9",
+    "createdAt": "2026-04-01T13:10:15.193Z"
+  },
+  {
+    "parentName": "Budi 417",
+    "studentName": "Alya 771",
+    "studentClass": "5",
+    "id": "963d5947-bf94-4739-838b-692e42b308ae",
+    "createdAt": "2026-04-01T09:55:55.843Z"
+  },
+  {
+    "parentName": "Joko 165",
+    "studentName": "Bima 420",
+    "studentClass": "6",
+    "id": "d9290b67-33b8-43a9-b25a-1b514c1dadcf",
+    "createdAt": "2026-03-31T21:07:53.741Z"
+  },
+  {
+    "parentName": "Hadi 140",
+    "studentName": "Hafiz 598",
+    "studentClass": "5",
+    "id": "2635b7ce-be6a-4845-8b5e-9a9e3218fb1b",
+    "createdAt": "2026-03-31T12:46:00.570Z"
+  },
+  {
+    "parentName": "Hadi 5",
+    "studentName": "Rangga 657",
+    "studentClass": "2",
+    "id": "1ff204a4-b0e7-4191-a5f5-30d6354b7b12",
+    "createdAt": "2026-03-31T02:58:02.214Z"
+  },
+  {
+    "parentName": "Hendro 869",
+    "studentName": "Gita 172",
+    "studentClass": "4",
+    "id": "73f65184-7179-4458-b459-75807a9353ad",
+    "createdAt": "2026-03-30T23:44:55.410Z"
+  },
+  {
+    "parentName": "Rina 813",
+    "studentName": "Fajar 882",
+    "studentClass": "4",
+    "id": "1467b56a-f2eb-4973-bbb9-c81fe5c26636",
+    "createdAt": "2026-03-30T08:02:53.745Z"
+  },
+  {
+    "parentName": "Siti 528",
+    "studentName": "Naufal 703",
+    "studentClass": "6",
+    "id": "a802969c-9987-407c-bc04-7f4bf69b5edd",
+    "createdAt": "2026-03-30T06:30:30.573Z"
+  },
+  {
+    "parentName": "Siti 749",
+    "studentName": "Zahra 783",
+    "studentClass": "4",
+    "id": "96afac05-a5f0-4b0b-ad38-395b824cb8f7",
+    "createdAt": "2026-03-28T18:22:27.050Z"
+  },
+  {
+    "parentName": "Andi 808",
+    "studentName": "Dimas 823",
+    "studentClass": "2",
+    "id": "c0a0c80d-1499-4982-bccd-287307fc1803",
+    "createdAt": "2026-03-28T06:12:00.408Z"
+  },
+  {
+    "parentName": "Agus 334",
+    "studentName": "Hafiz 432",
+    "studentClass": "4",
+    "id": "e8989e28-618e-404f-8417-d2e250c46bd8",
+    "createdAt": "2026-03-27T15:45:01.109Z"
+  },
+  {
+    "parentName": "Nur 887",
+    "studentName": "Cinta 154",
+    "studentClass": "6",
+    "id": "1393dda7-b152-4e21-942d-9a2a0ffed0e4",
+    "createdAt": "2026-03-27T05:20:46.577Z"
+  },
+  {
+    "parentName": "Hadi 564",
+    "studentName": "Aisyah 932",
+    "studentClass": "2",
+    "id": "d6d78801-fb9a-4909-9786-c37b48d83c46",
+    "createdAt": "2026-03-26T07:10:06.631Z"
+  },
+  {
+    "parentName": "Joko 44",
+    "studentName": "Aditya 47",
+    "studentClass": "5",
+    "id": "8c9c928a-74e0-406e-91df-078645a0c4cd",
+    "createdAt": "2026-03-25T10:53:11.743Z"
+  },
+  {
+    "parentName": "Siti 781",
+    "studentName": "Aisyah 174",
+    "studentClass": "1",
+    "id": "c138e999-b736-4062-bb09-0b8c68e2aa94",
+    "createdAt": "2026-03-25T08:12:39.286Z"
+  },
+  {
+    "parentName": "Agus 257",
+    "studentName": "Zahra 287",
+    "studentClass": "3",
+    "id": "05050371-dd39-43ed-b787-f012d27287c2",
+    "createdAt": "2026-03-25T00:54:11.616Z"
+  },
+  {
+    "parentName": "Nur 808",
+    "studentName": "Rangga 342",
+    "studentClass": "5",
+    "id": "c017955d-4f5a-4fba-a436-1861cc1cef62",
+    "createdAt": "2026-03-24T23:24:59.033Z"
+  },
+  {
+    "parentName": "Andi 280",
+    "studentName": "Eka 343",
+    "studentClass": "3",
+    "id": "e910aaea-d681-45f1-af8b-1bb55b1355aa",
+    "createdAt": "2026-03-24T10:44:39.668Z"
+  },
+  {
+    "parentName": "Agus 70",
+    "studentName": "Gita 855",
+    "studentClass": "3",
+    "id": "936bafd5-2de0-4433-8f7d-22c5d35ba74f",
+    "createdAt": "2026-03-24T10:25:14.314Z"
+  },
+  {
+    "parentName": "Hadi 248",
+    "studentName": "Intan 174",
+    "studentClass": "6",
+    "id": "127656da-1172-4d09-83ed-4a3072b9cace",
+    "createdAt": "2026-03-24T06:54:36.698Z"
+  },
+  {
+    "parentName": "Budi 150",
+    "studentName": "Zahra 598",
+    "studentClass": "6",
+    "id": "99421851-d4cd-418b-ac2e-2dc566194945",
+    "createdAt": "2026-03-23T23:52:00.286Z"
+  },
+  {
+    "parentName": "Nur 848",
+    "studentName": "Eka 991",
+    "studentClass": "5",
+    "id": "d55c8c01-41fc-41be-9643-4f026fa66561",
+    "createdAt": "2026-03-23T22:15:17.021Z"
+  },
+  {
+    "parentName": "Siti 27",
+    "studentName": "Dimas 115",
+    "studentClass": "4",
+    "id": "679381c0-4da7-48d5-aeef-845681f30aa0",
+    "createdAt": "2026-03-23T20:40:57.943Z"
+  },
+  {
+    "parentName": "Andi 362",
+    "studentName": "Rangga 947",
+    "studentClass": "4",
+    "id": "1ece0c29-9386-468d-ac6c-ed9225ceaf37",
+    "createdAt": "2026-03-23T13:07:00.085Z"
+  },
+  {
+    "parentName": "Sri 116",
+    "studentName": "Aisyah 477",
+    "studentClass": "5",
+    "id": "b4524fd0-097c-45aa-b6a7-323fc8398895",
+    "createdAt": "2026-03-23T05:30:41.831Z"
+  },
+  {
+    "parentName": "Hadi 801",
+    "studentName": "Dimas 485",
+    "studentClass": "1",
+    "id": "d0fb7631-3f41-4325-9c64-bfd23a99d180",
+    "createdAt": "2026-03-23T03:20:42.486Z"
+  },
+  {
+    "parentName": "Santi 938",
+    "studentName": "Naufal 875",
+    "studentClass": "3",
+    "id": "b0ca845c-35e6-473c-8bb9-7628336166b3",
+    "createdAt": "2026-03-23T02:08:06.391Z"
+  },
+  {
+    "parentName": "Sri 623",
+    "studentName": "Zahra 623",
+    "studentClass": "3",
+    "id": "aec00682-d6df-4e9e-b106-019f74aa2174",
+    "createdAt": "2026-03-22T14:49:33.828Z"
+  },
+  {
+    "parentName": "Santi 846",
+    "studentName": "Rangga 503",
+    "studentClass": "6",
+    "id": "835bce83-eb00-4002-90dd-33e208d28da7",
+    "createdAt": "2026-03-22T12:09:35.572Z"
+  },
+  {
+    "parentName": "Hendro 682",
+    "studentName": "Eka 533",
+    "studentClass": "5",
+    "id": "c57311f9-7ddb-4d12-8008-86b07dc6fe7b",
+    "createdAt": "2026-03-22T05:55:44.346Z"
+  },
+  {
+    "parentName": "Joko 837",
+    "studentName": "Gita 809",
+    "studentClass": "4",
+    "id": "b0860244-13d0-4033-8c22-5478a05a7eba",
+    "createdAt": "2026-03-21T22:04:34.684Z"
+  },
+  {
+    "parentName": "Agus 68",
+    "studentName": "Hafiz 55",
+    "studentClass": "3",
+    "id": "e81c7b91-7b34-48c7-9e08-b16eaf0f8638",
+    "createdAt": "2026-03-21T21:46:59.822Z"
+  },
+  {
+    "parentName": "Sri 231",
+    "studentName": "Alya 907",
+    "studentClass": "3",
+    "id": "c72211cd-4d23-4c0c-b11b-e42f3125d7d8",
+    "createdAt": "2026-03-21T21:15:44.191Z"
+  },
+  {
+    "parentName": "Sri 995",
+    "studentName": "Alya 887",
+    "studentClass": "4",
+    "id": "1ab9608d-d37f-4afb-acd8-931638a4afc4",
+    "createdAt": "2026-03-21T19:36:20.518Z"
+  },
+  {
+    "parentName": "Dewi 101",
+    "studentName": "Zahra 651",
+    "studentClass": "2",
+    "id": "6d2edb32-5d77-4c8e-85a1-e282b70f633a",
+    "createdAt": "2026-03-20T20:13:51.333Z"
+  },
+  {
+    "parentName": "Tono 399",
+    "studentName": "Aditya 661",
+    "studentClass": "4",
+    "id": "16fe67ff-e0e3-49ee-b541-98accc3c8098",
+    "createdAt": "2026-03-20T20:02:45.854Z"
+  },
+  {
+    "parentName": "Budi 868",
+    "studentName": "Dimas 368",
+    "studentClass": "5",
+    "id": "ddb02978-e2e1-4449-95f0-7054f60859a6",
+    "createdAt": "2026-03-19T20:38:33.884Z"
+  },
+  {
+    "parentName": "Andi 222",
+    "studentName": "Rangga 291",
+    "studentClass": "3",
+    "id": "0b489171-0842-4d9f-aee7-c4ecad560851",
+    "createdAt": "2026-03-19T06:54:32.566Z"
+  },
+  {
+    "parentName": "Agus 234",
+    "studentName": "Bima 835",
+    "studentClass": "3",
+    "id": "b90920c4-2962-4db4-8efa-6740afdaefa5",
+    "createdAt": "2026-03-18T22:53:18.386Z"
+  },
+  {
+    "parentName": "Ratna 156",
+    "studentName": "Aisyah 156",
+    "studentClass": "1",
+    "id": "45c5e8aa-cf9a-489d-8f4a-72e9a1e99c28",
+    "createdAt": "2026-03-18T12:19:49.137Z"
+  },
+  {
+    "parentName": "Siti 328",
+    "studentName": "Fajar 306",
+    "studentClass": "1",
+    "id": "2df7c594-e2ac-4e40-898b-fce510db5da0",
+    "createdAt": "2026-03-18T03:31:58.244Z"
+  },
+  {
+    "parentName": "Siti 245",
+    "studentName": "Eka 878",
+    "studentClass": "4",
+    "id": "b72bb663-7aa2-41ae-ac08-8417f8891b63",
+    "createdAt": "2026-03-18T02:52:31.002Z"
+  },
+  {
+    "parentName": "Budi 710",
+    "studentName": "Aditya 343",
+    "studentClass": "3",
+    "id": "d5b3be4d-5310-498b-9f03-2b1813506ae3",
+    "createdAt": "2026-03-17T08:57:35.368Z"
+  },
+  {
+    "parentName": "Andi 956",
+    "studentName": "Naufal 282",
+    "studentClass": "4",
+    "id": "c2224df9-7205-42f4-b709-b2feecd43ff7",
+    "createdAt": "2026-03-15T18:50:13.503Z"
+  },
+  {
+    "parentName": "Agus 150",
+    "studentName": "Bima 859",
+    "studentClass": "6",
+    "id": "2f4d88e9-2990-4439-8353-3afdae9b281b",
+    "createdAt": "2026-03-15T17:47:56.208Z"
+  },
+  {
+    "parentName": "Sri 167",
+    "studentName": "Naufal 476",
+    "studentClass": "2",
+    "id": "5579f82f-4e96-4ef3-b03d-419cce835580",
+    "createdAt": "2026-03-14T15:34:52.936Z"
+  },
+  {
+    "parentName": "Tono 173",
+    "studentName": "Fajar 246",
+    "studentClass": "5",
+    "id": "fc1149dc-9042-45cf-bd16-1b2a43b82393",
+    "createdAt": "2026-03-13T18:48:36.109Z"
+  },
+  {
+    "parentName": "Rina 863",
+    "studentName": "Aditya 826",
+    "studentClass": "2",
+    "id": "571aa22f-afb7-4eea-a8b9-d5f4b12cd39f",
+    "createdAt": "2026-03-13T16:05:31.575Z"
+  },
+  {
+    "parentName": "Rina 415",
+    "studentName": "Bima 261",
+    "studentClass": "3",
+    "id": "16a45e91-adb5-414f-aeba-0c76cc147263",
+    "createdAt": "2026-03-13T13:34:24.838Z"
+  },
+  {
+    "parentName": "Budi 844",
+    "studentName": "Gita 418",
+    "studentClass": "4",
+    "id": "96df0fe8-e55a-490d-ac25-254e757744e5",
+    "createdAt": "2026-03-13T01:17:17.769Z"
+  },
+  {
+    "parentName": "Rina 833",
+    "studentName": "Aisyah 688",
+    "studentClass": "5",
+    "id": "749c17a3-2a0a-4c1d-94cf-e0f2452c7392",
+    "createdAt": "2026-03-12T06:04:54.593Z"
+  },
+  {
+    "parentName": "Tono 485",
+    "studentName": "Alya 997",
+    "studentClass": "3",
+    "id": "649fc062-2c54-4624-9f20-b36fb665facf",
+    "createdAt": "2026-03-11T19:31:50.316Z"
+  },
+  {
+    "parentName": "Hadi 916",
+    "studentName": "Aditya 52",
+    "studentClass": "3",
+    "id": "f727e6b5-906b-48db-97e6-89cc9ce21be4",
+    "createdAt": "2026-03-11T12:25:09.703Z"
+  },
+  {
+    "parentName": "Nur 372",
+    "studentName": "Eka 845",
+    "studentClass": "4",
+    "id": "84710aab-bd92-4e1c-ab4b-49b0de48fc96",
+    "createdAt": "2026-03-11T03:16:02.737Z"
+  },
+  {
+    "parentName": "Agus 37",
+    "studentName": "Aisyah 895",
+    "studentClass": "2",
+    "id": "e5164276-4e5e-44cf-9017-e5254c45296f",
+    "createdAt": "2026-03-10T16:43:53.963Z"
+  },
+  {
+    "parentName": "Santi 96",
+    "studentName": "Rangga 774",
+    "studentClass": "6",
+    "id": "065b951a-1d20-4c16-92fe-d1abf1770015",
+    "createdAt": "2026-03-10T15:06:17.454Z"
+  },
+  {
+    "parentName": "Budi 348",
+    "studentName": "Aditya 307",
+    "studentClass": "6",
+    "id": "bfa4ddb9-60b5-4e3c-a494-4df3820f2159",
+    "createdAt": "2026-03-09T20:40:18.284Z"
+  },
+  {
+    "parentName": "Nur 385",
+    "studentName": "Aisyah 19",
+    "studentClass": "3",
+    "id": "94a51f15-94ec-4cad-9ef8-5af65da09e62",
+    "createdAt": "2026-03-09T15:49:56.694Z"
+  },
+  {
+    "parentName": "Dewi 459",
+    "studentName": "Bima 829",
+    "studentClass": "6",
+    "id": "5ce35d2c-0663-43f5-8020-0d15547457ee",
+    "createdAt": "2026-03-09T12:18:47.941Z"
+  },
+  {
+    "parentName": "Tono 688",
+    "studentName": "Aisyah 803",
+    "studentClass": "5",
+    "id": "4761ebd6-5153-4faa-b863-816e1bf9f957",
+    "createdAt": "2026-03-08T13:58:54.600Z"
+  },
+  {
+    "parentName": "Andi 109",
+    "studentName": "Zahra 462",
+    "studentClass": "4",
+    "id": "b59c07ab-703d-4a6b-a646-0dea8839e9bd",
+    "createdAt": "2026-03-07T18:57:52.265Z"
+  },
+  {
+    "parentName": "Santi 601",
+    "studentName": "Dimas 701",
+    "studentClass": "6",
+    "id": "a71c5700-ef2c-4743-ba9e-37597ef65da3",
+    "createdAt": "2026-03-07T17:47:05.544Z"
+  },
+  {
+    "parentName": "Budi 515",
+    "studentName": "Gita 136",
+    "studentClass": "4",
+    "id": "5a90c590-a18b-4eeb-8b9f-63a55cce3744",
+    "createdAt": "2026-03-07T13:38:33.806Z"
+  },
+  {
+    "parentName": "Andi 967",
+    "studentName": "Alya 688",
+    "studentClass": "3",
+    "id": "28485c64-d38b-48ff-a9a1-1837620c4fcf",
+    "createdAt": "2026-03-07T13:19:57.279Z"
+  },
+  {
+    "parentName": "Santi 228",
+    "studentName": "Cinta 23",
+    "studentClass": "5",
+    "id": "11656efd-1e49-4e79-9d88-2b734101d935",
+    "createdAt": "2026-03-07T11:04:55.436Z"
+  },
+  {
+    "parentName": "Hendro 187",
+    "studentName": "Gita 918",
+    "studentClass": "3",
+    "id": "b811d1fe-0730-48cc-ba90-7ac0463ad9af",
+    "createdAt": "2026-03-07T05:17:31.718Z"
+  },
+  {
+    "parentName": "Agus 842",
+    "studentName": "Naufal 252",
+    "studentClass": "6",
+    "id": "57c2e541-5b35-40b1-ae64-6124fd5c4df1",
+    "createdAt": "2026-03-07T01:59:55.085Z"
+  },
+  {
+    "parentName": "Ratna 8",
+    "studentName": "Rangga 958",
+    "studentClass": "2",
+    "id": "facb3875-5f25-4d79-8395-e0b54eadee1d",
+    "createdAt": "2026-03-06T22:45:32.080Z"
+  },
+  {
+    "parentName": "Joko 21",
+    "studentName": "Aisyah 376",
+    "studentClass": "2",
+    "id": "7dae0f8d-d741-41db-82db-28117a20fa80",
+    "createdAt": "2026-03-06T08:57:10.367Z"
+  },
+  {
+    "parentName": "Agus 464",
+    "studentName": "Rangga 579",
+    "studentClass": "5",
+    "id": "bba0f067-9f79-41ed-a01f-888aec8637b4",
+    "createdAt": "2026-03-05T22:09:28.092Z"
+  },
+  {
+    "parentName": "Budi 835",
+    "studentName": "Gita 474",
+    "studentClass": "1",
+    "id": "d69236dc-f7f7-453d-b9a6-0205e0d47d73",
+    "createdAt": "2026-03-05T10:12:54.421Z"
+  },
+  {
+    "parentName": "Budi 622",
+    "studentName": "Gita 696",
+    "studentClass": "3",
+    "id": "5e662b3d-9d75-4d60-b293-bf95aefa7665",
+    "createdAt": "2026-03-04T11:26:13.363Z"
+  },
+  {
+    "parentName": "Santi 555",
+    "studentName": "Gita 574",
+    "studentClass": "2",
+    "id": "4e5e5d3c-4442-41db-bbcc-950c19b2160a",
+    "createdAt": "2026-03-04T00:14:50.948Z"
+  },
+  {
+    "parentName": "Nur 147",
+    "studentName": "Dimas 52",
+    "studentClass": "1",
+    "id": "886cf4e3-ab83-44bb-a4ec-431f87353e1b",
+    "createdAt": "2026-03-03T21:15:23.495Z"
+  },
+  {
+    "parentName": "Nur 958",
+    "studentName": "Bima 18",
+    "studentClass": "1",
+    "id": "f145ce39-989d-4f60-a75c-80ee61e8eaa8",
+    "createdAt": "2026-03-03T18:48:36.364Z"
+  },
+  {
+    "parentName": "Nur 262",
+    "studentName": "Dimas 44",
+    "studentClass": "4",
+    "id": "e391f06f-3194-4db7-9e09-22fede3b47d4",
+    "createdAt": "2026-03-03T14:33:53.179Z"
+  },
+  {
+    "parentName": "Hendro 133",
+    "studentName": "Dimas 163",
+    "studentClass": "4",
+    "id": "3828b3bd-d679-4d53-ad5f-5e110ecce93f",
+    "createdAt": "2026-03-03T04:43:47.834Z"
+  },
+  {
+    "parentName": "Siti 85",
+    "studentName": "Aditya 893",
+    "studentClass": "2",
+    "id": "75280bf6-3823-4c47-a6d8-2e78788d9b29",
+    "createdAt": "2026-03-02T11:15:38.287Z"
+  },
+  {
+    "parentName": "Ratna 700",
+    "studentName": "Fajar 228",
+    "studentClass": "1",
+    "id": "623f13d5-26ca-4881-9322-c9113cc0372c",
+    "createdAt": "2026-03-01T06:15:00.281Z"
+  },
+  {
+    "parentName": "Rina 61",
+    "studentName": "Gita 618",
+    "studentClass": "6",
+    "id": "dc81c299-5cce-475c-8e96-7a106c819896",
+    "createdAt": "2026-02-28T23:39:36.912Z"
+  },
+  {
+    "parentName": "Hadi 161",
+    "studentName": "Aisyah 696",
+    "studentClass": "3",
+    "id": "352a1635-d12c-4941-a692-13591fe1ec8c",
+    "createdAt": "2026-02-28T05:23:39.115Z"
+  },
+  {
+    "parentName": "Andi 491",
+    "studentName": "Alya 138",
+    "studentClass": "6",
+    "id": "9ae53512-d07d-44fb-9336-238cfb48344c",
+    "createdAt": "2026-02-28T00:57:48.950Z"
+  },
+  {
+    "parentName": "Joko 487",
+    "studentName": "Eka 673",
+    "studentClass": "2",
+    "id": "46d9b081-7c5a-42e8-bf18-d9a74acc1c4c",
+    "createdAt": "2026-02-27T21:00:41.386Z"
+  },
+  {
+    "parentName": "Dewi 328",
+    "studentName": "Eka 878",
+    "studentClass": "3",
+    "id": "4804c3d6-8768-4180-8529-2d39472bfa64",
+    "createdAt": "2026-02-27T15:20:39.617Z"
+  },
+  {
+    "parentName": "Hadi 402",
+    "studentName": "Bima 37",
+    "studentClass": "1",
+    "id": "e3628fc3-88c3-4b86-9293-4ab5f6a863f2",
+    "createdAt": "2026-02-27T13:28:59.392Z"
+  },
+  {
+    "parentName": "Budi 911",
+    "studentName": "Rangga 569",
+    "studentClass": "5",
+    "id": "4db25d30-2f74-4da9-bcd5-02081b72ed0a",
+    "createdAt": "2026-02-26T08:37:53.648Z"
+  },
+  {
+    "parentName": "Hadi 760",
+    "studentName": "Alya 911",
+    "studentClass": "2",
+    "id": "1c37e68b-d8f8-4b1a-9ca0-42d7d100360a",
+    "createdAt": "2026-02-24T07:15:30.936Z"
+  },
+  {
+    "parentName": "Nur 553",
+    "studentName": "Zahra 316",
+    "studentClass": "6",
+    "id": "03a18c7f-d113-4b86-b480-28b1d8539c20",
+    "createdAt": "2026-02-24T05:40:39.759Z"
+  },
+  {
+    "parentName": "Hadi 629",
+    "studentName": "Cinta 94",
+    "studentClass": "1",
+    "id": "4ead6fa9-52da-4124-b0ed-f6ae8ef52ff5",
+    "createdAt": "2026-02-22T22:57:04.669Z"
+  },
+  {
+    "parentName": "Siti 883",
+    "studentName": "Bima 590",
+    "studentClass": "3",
+    "id": "00063c99-8201-4c43-b736-749503299518",
+    "createdAt": "2026-02-21T12:39:39.758Z"
+  },
+  {
+    "parentName": "Joko 123",
+    "studentName": "Eka 594",
+    "studentClass": "6",
+    "id": "20a7ddd8-dd56-4e02-a23a-60757325337b",
+    "createdAt": "2026-02-21T10:50:17.848Z"
+  },
+  {
+    "parentName": "Sri 394",
+    "studentName": "Dimas 690",
+    "studentClass": "3",
+    "id": "7174e55c-99c8-43a5-831f-dd9f27f8efb0",
+    "createdAt": "2026-02-21T07:28:57.657Z"
+  },
+  {
+    "parentName": "Rina 966",
+    "studentName": "Fajar 896",
+    "studentClass": "4",
+    "id": "3416dedb-fa86-4173-8490-e3af4f100679",
+    "createdAt": "2026-02-21T03:18:23.791Z"
+  },
+  {
+    "parentName": "Santi 592",
+    "studentName": "Eka 881",
+    "studentClass": "5",
+    "id": "16aeed95-f32a-4f35-8168-0f44de16962a",
+    "createdAt": "2026-02-20T08:14:14.467Z"
+  },
+  {
+    "parentName": "Andi 723",
+    "studentName": "Naufal 540",
+    "studentClass": "3",
+    "id": "07da7fdf-5f98-4630-b632-7ec109d000fc",
+    "createdAt": "2026-02-19T18:05:06.409Z"
+  },
+  {
+    "parentName": "Dewi 511",
+    "studentName": "Aisyah 321",
+    "studentClass": "5",
+    "id": "49f689b9-bbd4-4c35-93dc-5e3d1846c331",
+    "createdAt": "2026-02-19T11:28:26.267Z"
+  },
+  {
+    "parentName": "Nur 981",
+    "studentName": "Alya 343",
+    "studentClass": "4",
+    "id": "fcb9306d-92df-4677-8236-c1e3bf058be2",
+    "createdAt": "2026-02-19T07:02:08.507Z"
+  },
+  {
+    "parentName": "Nur 973",
+    "studentName": "Bima 351",
+    "studentClass": "3",
+    "id": "ad79d294-3a51-4c3b-99a2-9250d8f56711",
+    "createdAt": "2026-02-19T04:46:47.038Z"
+  },
+  {
+    "parentName": "Rina 966",
+    "studentName": "Eka 57",
+    "studentClass": "4",
+    "id": "3a6f47d8-413a-4716-a8ee-abba0649382e",
+    "createdAt": "2026-02-18T20:07:03.700Z"
+  },
+  {
+    "parentName": "Budi 6",
+    "studentName": "Hafiz 911",
+    "studentClass": "4",
+    "id": "0441257e-c792-4198-b88d-0b4012be9777",
+    "createdAt": "2026-02-18T03:12:10.116Z"
+  },
+  {
+    "parentName": "Siti 290",
+    "studentName": "Cinta 1",
+    "studentClass": "5",
+    "id": "807bf5e4-50e4-4229-a755-0622a1a5c12d",
+    "createdAt": "2026-02-18T02:53:57.502Z"
+  },
+  {
+    "parentName": "Hendro 766",
+    "studentName": "Zahra 124",
+    "studentClass": "3",
+    "id": "ba939286-ad90-4cd6-8da5-e6feef302bf0",
+    "createdAt": "2026-02-16T13:31:14.695Z"
+  },
+  {
+    "parentName": "Agus 571",
+    "studentName": "Rangga 497",
+    "studentClass": "4",
+    "id": "29f4a876-24b2-41f8-91a3-2a91b2384e80",
+    "createdAt": "2026-02-15T23:28:18.577Z"
+  },
+  {
+    "parentName": "Santi 249",
+    "studentName": "Bima 836",
+    "studentClass": "5",
+    "id": "31222842-abd2-4c6c-be27-da3459fc2b0d",
+    "createdAt": "2026-02-15T21:38:14.509Z"
+  },
+  {
+    "parentName": "Joko 51",
+    "studentName": "Hafiz 255",
+    "studentClass": "2",
+    "id": "59c495dc-b23c-41c8-974b-0af2c2b98cca",
+    "createdAt": "2026-02-15T13:50:11.186Z"
+  },
+  {
+    "parentName": "Siti 169",
+    "studentName": "Aditya 401",
+    "studentClass": "1",
+    "id": "8d2533cf-608e-448e-8ca8-ca343215b28e",
+    "createdAt": "2026-02-15T07:03:20.941Z"
+  },
+  {
+    "parentName": "Budi 532",
+    "studentName": "Gita 399",
+    "studentClass": "5",
+    "id": "ca114de6-4bc9-423b-ad3d-4adfab0ae8fc",
+    "createdAt": "2026-02-15T05:10:20.796Z"
+  }
+]

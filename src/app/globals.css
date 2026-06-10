@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #FAF9F6; /* Soft Clean Off-white */
+  --foreground: #3E362E; /* Soft Dark Brown */
 }
 
 @theme inline {
@@ -10,17 +10,133 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-caveat: var(--font-caveat);
+  --color-primary: #1B3E1F; /* Deep Jungle Green */
+  --color-orange: #F5A623;  /* Adventure Gold */
+  --color-cream: #FAF9F6;
+  --color-wood: #8D5A3A;    /* Wood Brown */
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* Playful Animations */
+@keyframes wobble {
+  0% { transform: rotate(-1deg); }
+  50% { transform: rotate(2deg); }
+  100% { transform: rotate(-1deg); }
+}
+
+@keyframes fly {
+  0% { transform: translateX(0) translateY(0) rotate(0deg); opacity: 0.8; }
+  25% { transform: translateX(50px) translateY(-20px) rotate(3deg); }
+  50% { transform: translateX(100px) translateY(10px) rotate(-3deg); opacity: 1; }
+  75% { transform: translateX(150px) translateY(-10px) rotate(5deg); }
+  100% { transform: translateX(200px) translateY(-30px) rotate(10deg); opacity: 0; }
+}
+
+@keyframes pop {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+@keyframes pulse-ring {
+  0% { transform: scale(0.98); opacity: 0.7; }
+  50% { transform: scale(1.02); opacity: 1; }
+  100% { transform: scale(0.98); opacity: 0.7; }
+}
+
+@keyframes spin-slow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.animate-wobble {
+  animation: wobble 5s ease-in-out infinite;
+}
+
+.animate-wobble-fast {
+  animation: wobble 2s ease-in-out infinite;
+}
+
+.animate-fly {
+  animation: fly 8s linear infinite;
+}
+
+.animate-pulse-ring {
+  animation: pulse-ring 3s infinite ease-in-out;
+}
+
+.animate-spin-slow {
+  animation: spin-slow 20s linear infinite;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
+  background-color: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-geist-sans), Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Playful hand-drawn style card */
+.scrapbook-card {
+  background: white;
+  border: 3px solid #3E362E;
+  border-radius: 8px 255px 10px 225px / 255px 5px 225px 15px; /* Organic hand-drawn look */
+  box-shadow: 6px 6px 0px rgba(62, 54, 46, 0.15);
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.scrapbook-card:hover {
+  transform: translateY(-3px) scale(1.01) rotate(0.5deg);
+  box-shadow: 8px 8px 0px rgba(62, 54, 46, 0.2);
+}
+
+.scrapbook-card-alt {
+  border-radius: 255px 15px 225px 5px / 15px 225px 5px 255px;
+}
+
+.scrapbook-card-alt:hover {
+  transform: translateY(-3px) scale(1.01) rotate(-0.5deg);
+}
+
+/* Tape decoration */
+.tape {
+  position: absolute;
+  width: 120px;
+  height: 30px;
+  background-color: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 1px 2px rgba(62,54,46,0.1);
+  z-index: 20;
+}
+
+.tape.pink {
+  background-color: rgba(245, 166, 35, 0.6); /* Adventure Gold */
+  transform: rotate(-2deg);
+}
+
+.tape.yellow {
+  background-color: rgba(27, 62, 31, 0.7); /* Deep Green */
+  transform: rotate(3deg);
+}
+
+.tape.blue {
+  background-color: rgba(141, 90, 58, 0.7); /* Wood brown */
+  transform: rotate(-2deg);
+}
+
+/* Inputs */
+input::placeholder {
+  color: rgba(62, 54, 46, 0.4);
+}
+
+input:focus {
+  border-color: #F5A623 !important;
+  box-shadow: 3px 3px 0px rgba(245, 166, 35, 0.2);
 }
