@@ -3,9 +3,21 @@
 import fs from "fs/promises";
 import path from "path";
 import crypto from "crypto";
+import { revalidatePath } from "next/cache";
+import { Redis } from '@upstash/redis';
 
 const DATA_DIR = path.join(process.cwd(), "data");
 const FILE_PATH = path.join(DATA_DIR, "guestbook.json");
+
+// Check for either Vercel KV or Upstash environment variables
+const redisUrl = process.env.KV_REST_API_URL || process.env.UPSTASH_REDIS_REST_URL;
+const redisToken = process.env.KV_REST_API_TOKEN || process.env.UPSTASH_REDIS_REST_TOKEN;
+
+const isRedisConfigured = redisUrl && redisToken;
+const redis = isRedisConfigured ? new Redis({
+  url: redisUrl!,
+  token: redisToken!,
+}) : null;
 
 export interface GuestEntry {
   id: string;
@@ -31,21 +43,25 @@ async function ensureDataFile() {
 
 export async function saveGuestBookEntry(data: { parentName: string; studentName: string; studentClass: string }) {
   try {
-    await ensureDataFile();
-    
-    const content = await fs.readFile(FILE_PATH, "utf-8");
-    const entries: GuestEntry[] = JSON.parse(content || "[]");
-    
     const newEntry: GuestEntry = {
       ...data,
       id: crypto.randomUUID(),
       createdAt: new Date().toISOString()
     };
     
-    // Add to beginning of array so newest is first
-    entries.unshift(newEntry);
-    
-    await fs.writeFile(FILE_PATH, JSON.stringify(entries, null, 2));
+    if (redis) {
+      // Vercel Serverless environment (using KV Database)
+      const currentData = await redis.get<GuestEntry[]>('guestbook_entries') || [];
+      currentData.unshift(newEntry);
+      await redis.set('guestbook_entries', currentData);
+    } else {
+      // Local development environment (using File System)
+      await ensureDataFile();
+      const content = await fs.readFile(FILE_PATH, "utf-8");
+      const entries: GuestEntry[] = JSON.parse(content || "[]");
+      entries.unshift(newEntry);
+      await fs.writeFile(FILE_PATH, JSON.stringify(entries, null, 2));
+    }
     
     return { success: true };
   } catch (error) {
@@ -56,9 +72,16 @@ export async function saveGuestBookEntry(data: { parentName: string; studentName
 
 export async function getGuestBookEntries(): Promise<GuestEntry[]> {
   try {
-    await ensureDataFile();
-    const content = await fs.readFile(FILE_PATH, "utf-8");
-    return JSON.parse(content || "[]");
+    if (redis) {
+      // Vercel Serverless environment (using KV Database)
+      const data = await redis.get<GuestEntry[]>('guestbook_entries');
+      return data || [];
+    } else {
+      // Local development environment (using File System)
+      await ensureDataFile();
+      const content = await fs.readFile(FILE_PATH, "utf-8");
+      return JSON.parse(content || "[]");
+    }
   } catch (error) {
     console.error("Failed to load guestbook entries:", error);
     return [];
