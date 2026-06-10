@@ -29,7 +29,10 @@ export async function saveGuestBookEntry(data: { parentName: string; studentName
       
     if (error) {
       console.error("Supabase insert error:", error);
-      return { success: false, error: "Failed to save data" };
+      return { 
+        success: false, 
+        error: `Supabase URL: ${process.env.NEXT_PUBLIC_SUPABASE_URL ? 'EXISTS' : 'MISSING'}. Supabase Key: ${process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY ? 'EXISTS' : 'MISSING'}. Restart server jika MISSING.` 
+      };
     }
     
     return { success: true };
@@ -44,19 +47,24 @@ export async function getGuestBookEntries(): Promise<GuestEntry[]> {
     const cookieStore = await cookies();
     const supabase = createClient(cookieStore);
     
+    console.log("Checking Supabase Environment:", {
+      url: process.env.NEXT_PUBLIC_SUPABASE_URL ? "Exists" : "Missing",
+      key: process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY ? "Exists" : "Missing"
+    });
+
     const { data, error } = await supabase
       .from('guestbook_entries')
       .select('*')
       .order('createdAt', { ascending: false });
       
     if (error) {
-      console.error("Supabase select error:", error);
+      console.error("Supabase select error detail:", JSON.stringify(error, null, 2));
       return [];
     }
     
     return data as GuestEntry[];
   } catch (error) {
-    console.error("Failed to load guestbook entries:", error);
+    console.error("Failed to load guestbook entries. Exception:", error);
     return [];
   }
 }
