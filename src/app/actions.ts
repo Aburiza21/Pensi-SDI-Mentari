@@ -9,33 +9,62 @@ export interface GuestEntry {
   parentName: string;
   studentName: string;
   studentClass: string;
+  attendance?: "hadir" | "tidak_hadir";
   createdAt: string;
 }
 
-export async function saveGuestBookEntry(data: { parentName: string; studentName: string; studentClass: string }) {
+export async function saveGuestBookEntry(data: {
+  id?: string;
+  parentName: string;
+  studentName: string;
+  studentClass: string;
+  attendance: "hadir" | "tidak_hadir";
+}) {
   try {
     const cookieStore = await cookies();
     const supabase = createClient(cookieStore);
     
-    const { error } = await supabase
-      .from('guestbook_entries')
-      .insert([
-        {
+    let query;
+    if (data.id) {
+      query = supabase
+        .from('guestbook_entries')
+        .update({
           parentName: data.parentName,
           studentName: data.studentName,
           studentClass: data.studentClass,
-        }
-      ]);
+          attendance: data.attendance,
+        })
+        .eq('id', data.id)
+        .select();
+    } else {
+      query = supabase
+        .from('guestbook_entries')
+        .insert([
+          {
+            parentName: data.parentName,
+            studentName: data.studentName,
+            studentClass: data.studentClass,
+            attendance: data.attendance,
+          }
+        ])
+        .select();
+    }
+    
+    const { data: insertedData, error } = await query;
       
     if (error) {
-      console.error("Supabase insert error:", error);
+      console.error("Supabase query error:", error);
       return { 
         success: false, 
-        error: `Supabase URL: ${process.env.NEXT_PUBLIC_SUPABASE_URL ? 'EXISTS' : 'MISSING'}. Supabase Key: ${process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY ? 'EXISTS' : 'MISSING'}. Restart server jika MISSING.` 
+        error: `Supabase error: ${error.message}` 
       };
     }
     
-    return { success: true };
+    const id = insertedData && insertedData[0] ? insertedData[0].id : null;
+    
+    revalidatePath("/buku-tamu");
+    
+    return { success: true, id };
   } catch (error) {
     console.error("Failed to save guestbook entry:", error);
     return { success: false, error: "Failed to save data" };
