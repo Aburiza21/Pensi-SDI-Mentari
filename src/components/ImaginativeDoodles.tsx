@@ -9,7 +9,7 @@ export function ImaginativeDoodles({ theme }: { theme: string }) {
 
   const iconBase = "absolute z-0 transition-all duration-[2000ms] pointer-events-none";
 
-  switch(theme) {
+  switch (theme) {
     case 'petualangan':
       return (
         <div className={`absolute inset-0 pointer-events-none overflow-hidden transition-opacity duration-1000 z-0 ${isActive ? 'opacity-100' : 'opacity-0'}`}>

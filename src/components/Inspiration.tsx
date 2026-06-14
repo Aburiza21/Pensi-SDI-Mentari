@@ -18,8 +18,16 @@ export default function Inspiration() {
     >
       <ImaginativeDoodles theme="percaya_diri" />
 
+      {/* Floating Background Decorations */}
+      <div data-swiper-parallax="-300" className="absolute top-[6%] left-[4%] sm:left-[2%] w-16 h-16 sm:w-26 sm:h-26 z-40 pointer-events-none opacity-95 drop-shadow-[6px_6px_0px_rgba(26,83,92,0.35)] animate-[wobble_6s_ease-in-out_infinite]">
+        <Image src="/icons/compass-background-design.png" alt="Compass Decor" width={100} height={100} className="object-contain rounded-full" />
+      </div>
+      <div data-swiper-parallax="-200" className="absolute bottom-[7%] left-[4%] sm:left-[2%] w-16 h-16 sm:w-26 sm:h-26 z-40 pointer-events-none opacity-95 drop-shadow-[6px_6px_0px_rgba(26,83,92,0.35)] animate-smooth-bounce">
+        <Image src="/icons/isolated-camping-tent-nature.png" alt="Tent Decor" width={100} height={100} className="object-contain" />
+      </div>
+
       {/* Character Mascot */}
-      <div className={`absolute bottom-12 right-6 sm:bottom-2 sm:right-6 md:right-12 w-28 h-28 sm:w-36 sm:h-36 md:w-48 md:h-48 z-20 pointer-events-none transition-all duration-[1200ms] ${isActive ? 'scale-100 translate-y-0 rotate-3 opacity-100' : 'scale-50 translate-y-12 rotate-12 opacity-0'}`}>
+      <div data-swiper-parallax="200" className={`absolute bottom-12 right-6 sm:bottom-2 sm:right-6 md:right-12 w-28 h-28 sm:w-36 sm:h-36 md:w-48 md:h-48 z-20 pointer-events-none transition-all duration-[1200ms] ${isActive ? 'scale-100 translate-y-0 rotate-3 opacity-100' : 'scale-50 translate-y-12 rotate-12 opacity-0'}`}>
         <Image
           src="/chars/3.png"
           alt="Mascot 3"
@@ -29,7 +37,7 @@ export default function Inspiration() {
           style={{ animation: "floatUp 4.2s ease-in-out infinite" }}
         />
       </div>
-      
+
       {/* Chalk scribbles */}
       <svg className="absolute top-[20%] left-[10%] w-[100px] h-[100px] text-white opacity-20 pointer-events-none" viewBox="0 0 100 100" fill="none" stroke="currentColor" strokeWidth="4">
         <path d="M10,50 Q50,10 90,50 T10,50" />
@@ -38,8 +46,8 @@ export default function Inspiration() {
         <path d="M50,10 L60,40 L90,50 L60,60 L50,90 L40,60 L10,50 L40,40 Z" />
       </svg>
 
-      <div className={`w-full max-w-4xl mx-auto relative z-10 flex flex-col items-center text-center transition-all duration-[2000ms] ${isActive ? 'opacity-100 translate-y-0 scale-100' : 'opacity-0 translate-y-16 scale-75'}`}>
-        
+      <div data-swiper-parallax="-100" className={`w-full max-w-4xl mx-auto relative z-10 flex flex-col items-center text-center transition-all duration-[2000ms] ${isActive ? 'opacity-100 translate-y-0 scale-100' : 'opacity-0 translate-y-16 scale-75'}`}>
+
         <div className="relative border-[4px] border-dashed border-white/50 p-6 sm:p-12 md:p-16 rounded-[255px_15px_225px_15px/15px_225px_15px_255px] bg-[#1A535C]/80 transform rotate-1">
           <Sparkles className={`absolute -top-6 -left-6 w-12 h-12 text-[#FFE66D] transition-transform duration-1000 delay-500 ${isActive ? 'rotate-0 scale-100' : '-rotate-45 scale-0'}`} fill="#FFE66D" />
 
@@ -49,14 +57,14 @@ export default function Inspiration() {
               <span className="font-black text-[#FFE66D] inline-block transition-transform transform rotate-2 animate-pulse">cahaya</span>{" "}
               dan keunikan yang patut dirayakan."
             </p>
-            
+
             <svg className="w-48 h-6 mx-auto mb-8" viewBox="0 0 100 20" fill="none" stroke="#FF6B6B" strokeWidth="4" strokeLinecap="round">
               <path d="M 0 10 Q 25 0, 50 10 T 100 10" />
             </svg>
 
             <p className="text-xl sm:text-2xl md:text-3xl text-[#FDF9E6] leading-relaxed font-bold mb-4" style={{ fontFamily: "var(--font-caveat), cursive" }}>
               Melalui Pentas Seni{" "}
-              <span className="text-[#FF6B6B] font-black bg-white/10 px-2 rounded-lg inline-block transform -rotate-1 animate-[wobble_3s_ease-in-out_infinite]">ARUNIKA ADVENTURE FEST</span>, mari bersama menyaksikan berbagai karya dan pengalaman seru yang dipersiapkan oleh anak-anak!
+              <span className="text-[#FFE66D] font-black bg-white/10 px-2 rounded-lg inline-block transform -rotate-1 animate-[wobble_3s_ease-in-out_infinite]">ARUNIKA ADVENTURE FEST</span>, mari bersama menyaksikan berbagai karya dan pengalaman seru yang dipersiapkan oleh anak-anak!
             </p>
 
           </blockquote>

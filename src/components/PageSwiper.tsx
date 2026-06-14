@@ -4,7 +4,7 @@ import React, { ReactNode } from "react";
 import Link from "next/link";
 import { BookOpen } from "lucide-react";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Mousewheel, Pagination, Keyboard, Navigation, EffectCreative } from "swiper/modules";
+import { Mousewheel, Pagination, Keyboard, Navigation, EffectCreative, Parallax } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
@@ -110,6 +110,7 @@ export default function PageSwiper({ children }: PageSwiperProps) {
         direction="vertical"
         slidesPerView={1}
         spaceBetween={0}
+        parallax={true}
         mousewheel={{
           forceToAxis: true,
           sensitivity: 1,
@@ -148,7 +149,7 @@ export default function PageSwiper({ children }: PageSwiperProps) {
             opacity: 0,
           },
         }}
-        modules={[Mousewheel, Pagination, Keyboard, Navigation, EffectCreative]}
+        modules={[Mousewheel, Pagination, Keyboard, Navigation, EffectCreative, Parallax]}
         className="h-full w-full"
       >
         {slides.map((child, index) => (

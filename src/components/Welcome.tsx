@@ -19,8 +19,16 @@ export default function Welcome() {
     >
       <ImaginativeDoodles theme="petualangan" />
 
+      {/* Floating Background Decorations */}
+      <div data-swiper-parallax="-300" className="absolute top-[6%] left-[4%] sm:left-[2%] w-16 h-16 sm:w-26 sm:h-26 z-40 pointer-events-none opacity-95 drop-shadow-[6px_6px_0px_rgba(26,83,92,0.35)] animate-[wobble_6s_ease-in-out_infinite]">
+        <Image src="/icons/compass-background-design.png" alt="Compass Decor" width={100} height={100} className="object-contain rounded-full" />
+      </div>
+      <div data-swiper-parallax="-200" className="absolute bottom-[7%] left-[4%] sm:left-[2%] w-16 h-16 sm:w-26 sm:h-26 z-40 pointer-events-none opacity-95 drop-shadow-[6px_6px_0px_rgba(26,83,92,0.35)] animate-smooth-bounce">
+        <Image src="/icons/isolated-camping-tent-nature.png" alt="Tent Decor" width={100} height={100} className="object-contain" />
+      </div>
+
       {/* Character Mascot */}
-      <div className={`absolute bottom-0 right-14 sm:bottom-0 sm:right-6 md:right-12 w-28 h-28 sm:w-40 sm:h-40 md:w-52 md:h-52 z-20 pointer-events-none transition-all duration-[1200ms] ${isActive ? 'scale-100 translate-y-0 rotate-3 opacity-100' : 'scale-50 translate-y-12 rotate-12 opacity-0'}`}>
+      <div data-swiper-parallax="200" className={`absolute bottom-0 right-14 sm:bottom-0 sm:right-6 md:right-12 w-28 h-28 sm:w-40 sm:h-40 md:w-52 md:h-52 z-20 pointer-events-none transition-all duration-[1200ms] ${isActive ? 'scale-100 translate-y-0 rotate-3 opacity-100' : 'scale-50 translate-y-12 rotate-12 opacity-0'}`}>
         <Image
           src="/chars/1.png"
           alt="Mascot 1"
@@ -39,7 +47,7 @@ export default function Welcome() {
         <path d="M 50 50 Q 150 20 100 100 T 150 150 T 50 150 T 50 50" className={`transition-all duration-[5000ms] ${isActive ? 'stroke-dasharray-1000 stroke-dashoffset-0' : 'stroke-dasharray-1000 stroke-dashoffset-1000'}`} style={{ strokeDasharray: 1000, strokeDashoffset: isActive ? 0 : 1000 }} />
       </svg>
 
-      <div className="w-full max-w-2xl mx-auto relative z-10 flex flex-col items-center justify-center text-center">
+      <div data-swiper-parallax="-100" className="w-full max-w-2xl mx-auto relative z-10 flex flex-col items-center justify-center text-center">
 
         {/* Wild Scribble Box Effect */}
         <div className="relative w-full">

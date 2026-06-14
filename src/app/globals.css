@@ -118,6 +118,19 @@
   animation: spin-slow 20s linear infinite;
 }
 
+@keyframes smoothBounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-15px);
+  }
+}
+
+.animate-smooth-bounce {
+  animation: smoothBounce 4s ease-in-out infinite;
+}
+
 * {
   box-sizing: border-box;
 }

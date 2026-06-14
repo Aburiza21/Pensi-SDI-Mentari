@@ -109,8 +109,16 @@ export default function RSVPForm() {
     >
       <ImaginativeDoodles theme="happy" />
 
+      {/* Floating Background Decorations */}
+      <div data-swiper-parallax="-250" className="absolute top-[25%] right-[4%] sm:right-[2%] w-16 h-16 sm:w-26 sm:h-26 z-40 pointer-events-none opacity-95 drop-shadow-[6px_6px_0px_rgba(26,83,92,0.35)] animate-[floatUp_6s_ease-in-out_infinite]">
+        <Image src="/icons/telescope-observation-icon.png" alt="Telescope Decor" width={100} height={100} className="object-contain" />
+      </div>
+      <div data-swiper-parallax="-300" className="absolute bottom-[8%] right-[4%] sm:right-[2%] w-16 h-16 sm:w-26 sm:h-26 z-40 pointer-events-none opacity-95 drop-shadow-[6px_6px_0px_rgba(26,83,92,0.35)] animate-[wobble_5s_ease-in-out_infinite]">
+        <Image src="/icons/opening-treasures-chest-closing-crate-wooden-safe-mobile-interface-vector-illustration.png" alt="Treasure Chest Decor" width={100} height={100} className="object-contain" />
+      </div>
+
       {/* Character Mascot */}
-      <div className={`absolute bottom-2 left-1 sm:left-6 md:left-12 w-28 h-28 sm:w-36 sm:h-36 md:w-48 md:h-48 z-20 pointer-events-none transition-all duration-[1200ms] ${isActive ? 'scale-100 translate-y-0 -rotate-3 opacity-100' : 'scale-50 translate-y-12 rotate-12 opacity-0'}`}>
+      <div data-swiper-parallax="200" className={`absolute bottom-2 left-1 sm:left-6 md:left-12 w-28 h-28 sm:w-36 sm:h-36 md:w-48 md:h-48 z-20 pointer-events-none transition-all duration-[1200ms] ${isActive ? 'scale-100 translate-y-0 -rotate-3 opacity-100' : 'scale-50 translate-y-12 rotate-12 opacity-0'}`}>
         <Image
           src="/chars/4.png"
           alt="Mascot 4"
@@ -125,6 +133,7 @@ export default function RSVPForm() {
       <div className="absolute left-[10%] sm:left-[15%] top-0 bottom-0 w-1 bg-[#FF6B6B]/40"></div>
 
       <div
+        data-swiper-parallax="-100"
         className={`w-full max-w-2xl mx-auto relative z-10 transition-all duration-[1500ms] cubic-bezier(0.34, 1.56, 0.64, 1) ${animationClass}`}
       >
         <div className="bg-[#fdfbfb] rounded-[255px_15px_225px_15px/15px_225px_15px_255px] p-4 sm:p-10 shadow-[6px_6px_0px_#1A535C] sm:shadow-[10px_10px_0px_#1A535C] border-4 sm:border-[5px] border-[#1A535C]">
