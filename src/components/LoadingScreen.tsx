@@ -62,7 +62,7 @@ export default function LoadingScreen() {
       <Camera className="absolute top-[40%] left-[10%] w-10 h-10 text-[#FF6B6B] opacity-50 animate-[wobble_2s_ease-in-out_infinite] transform rotate-12" strokeWidth={2} />
 
       {/* Playful Floating Cartoon Adventure Icons */}
-      <div className="absolute top-[8%] left-[5%] w-14 h-14 sm:w-20 sm:h-20 opacity-80 animate-[wobble_4s_ease-in-out_infinite] pointer-events-none">
+      {/* <div className="absolute top-[8%] left-[5%] w-14 h-14 sm:w-20 sm:h-20 opacity-80 animate-[wobble_4s_ease-in-out_infinite] pointer-events-none">
         <Image src="/icons/compass-background-design.png" alt="Compass" width={80} height={80} className="object-contain rounded-full shadow-[2px_2px_8px_rgba(0,0,0,0.15)]" />
       </div>
       <div className="absolute bottom-[10%] left-[5%] w-16 h-16 sm:w-24 sm:h-24 opacity-70 animate-[floatUp_5s_ease-in-out_infinite] pointer-events-none">
@@ -76,7 +76,7 @@ export default function LoadingScreen() {
       </div>
       <div className="absolute top-[45%] left-[3%] w-12 h-12 sm:w-16 sm:h-16 opacity-60 animate-[spin-slow_25s_linear_infinite] pointer-events-none">
         <Image src="/icons/telescope-observation-icon.png" alt="Telescope" width={64} height={64} className="object-contain" />
-      </div>
+      </div> */}
 
       <div className="relative flex flex-col items-center w-full max-w-md px-6 z-10">
 

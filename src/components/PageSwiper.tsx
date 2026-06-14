@@ -132,20 +132,20 @@ export default function PageSwiper({ children }: PageSwiperProps) {
           prevEl: '.swiper-button-prev-custom',
         }}
         effect={"creative"}
-        speed={900}
+        speed={1200}
         creativeEffect={{
           prev: {
             shadow: true,
-            translate: [0, "-100%", -400],
-            rotate: [0, 0, -15], // Strong tilt like tossing a paper away
-            scale: 0.6,
+            translate: [0, "-120%", -500],
+            rotate: [85, 0, -15],
+            scale: 0.8,
             opacity: 0,
           },
           next: {
             shadow: true,
-            translate: [0, "100%", -400],
-            rotate: [0, 0, 15], // Strong tilt entering
-            scale: 0.6,
+            translate: [0, "120%", -500],
+            rotate: [-85, 0, 15],
+            scale: 0.8,
             opacity: 0,
           },
         }}
