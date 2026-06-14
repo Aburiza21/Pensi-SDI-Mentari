@@ -17,10 +17,10 @@ export default function LoadingScreen() {
     const transitionTimer = setTimeout(() => {
       // Dispatch event to start the MusicPlayer
       window.dispatchEvent(new Event("start-music"));
-      
+
       // Start fade out
       setIsFadingOut(true);
-      
+
       // Remove from DOM completely
       setTimeout(() => {
         setIsLoading(false);
@@ -37,9 +37,8 @@ export default function LoadingScreen() {
 
   return (
     <div
-      className={`fixed inset-0 z-[9999] flex flex-col items-center justify-center transition-opacity duration-700 ease-in-out overflow-hidden ${
-        isFadingOut ? "opacity-0 pointer-events-none" : "opacity-100"
-      }`}
+      className={`fixed inset-0 z-[9999] flex flex-col items-center justify-center transition-opacity duration-700 ease-in-out overflow-hidden ${isFadingOut ? "opacity-0 pointer-events-none" : "opacity-100"
+        }`}
       style={{
         backgroundColor: "#6EC1E4",
         backgroundImage: "radial-gradient(rgba(255,255,255,0.3) 2px, transparent 2px)",
@@ -62,37 +61,54 @@ export default function LoadingScreen() {
       <Sun className="absolute top-[15%] right-[30%] w-20 h-20 text-[#F5A623] opacity-40 animate-[spin_10s_linear_infinite]" fill="#F5A623" strokeWidth={1} />
       <Camera className="absolute top-[40%] left-[10%] w-10 h-10 text-[#FF6B6B] opacity-50 animate-[wobble_2s_ease-in-out_infinite] transform rotate-12" strokeWidth={2} />
 
+      {/* Playful Floating Cartoon Adventure Icons */}
+      <div className="absolute top-[8%] left-[5%] w-14 h-14 sm:w-20 sm:h-20 opacity-80 animate-[wobble_4s_ease-in-out_infinite] pointer-events-none">
+        <Image src="/icons/compass-background-design.png" alt="Compass" width={80} height={80} className="object-contain rounded-full shadow-[2px_2px_8px_rgba(0,0,0,0.15)]" />
+      </div>
+      <div className="absolute bottom-[10%] left-[5%] w-16 h-16 sm:w-24 sm:h-24 opacity-70 animate-[floatUp_5s_ease-in-out_infinite] pointer-events-none">
+        <Image src="/icons/isolated-camping-tent-nature.png" alt="Tent" width={96} height={96} className="object-contain" />
+      </div>
+      <div className="absolute top-[18%] right-[5%] w-16 h-16 sm:w-24 sm:h-24 opacity-80 animate-[wobble_3s_ease-in-out_infinite] pointer-events-none">
+        <Image src="/icons/cartoon-binocular-flat-vector-illustration-binocular-white-background.png" alt="Binocular" width={96} height={96} className="object-contain rounded-full shadow-[2px_2px_8px_rgba(0,0,0,0.15)]" />
+      </div>
+      <div className="absolute bottom-[18%] right-[5%] w-16 h-16 sm:w-24 sm:h-24 opacity-70 animate-bounce pointer-events-none">
+        <Image src="/icons/game-kids-pirate-treasure-chest-vector-illustration.png" alt="Treasure Chest" width={96} height={96} className="object-contain" />
+      </div>
+      <div className="absolute top-[45%] left-[3%] w-12 h-12 sm:w-16 sm:h-16 opacity-60 animate-[spin-slow_25s_linear_infinite] pointer-events-none">
+        <Image src="/icons/telescope-observation-icon.png" alt="Telescope" width={64} height={64} className="object-contain" />
+      </div>
+
       <div className="relative flex flex-col items-center w-full max-w-md px-6 z-10">
-        
+
         {/* Animated Drawing Area */}
         <div className="relative w-full h-64 sm:h-72 flex items-center justify-center mb-6">
           <svg className="absolute inset-0 w-full h-full opacity-80" viewBox="0 0 200 100" fill="none" strokeLinecap="round" strokeLinejoin="round">
             {/* Garis Merah Muda */}
-            <path 
-              d="M 10 70 Q 40 20, 80 80 T 140 30 T 190 60" 
+            <path
+              d="M 10 70 Q 40 20, 80 80 T 140 30 T 190 60"
               stroke="#FF6B6B" strokeWidth="8"
-              style={{ 
-                strokeDasharray: 500, 
+              style={{
+                strokeDasharray: 500,
                 strokeDashoffset: isDrawing ? 0 : 500,
                 transition: "stroke-dashoffset 1.5s ease-out 0.2s"
               }}
             />
             {/* Garis Kuning */}
-            <path 
-              d="M 20 40 C 60 90, 100 10, 150 70 C 170 90, 180 50, 190 40" 
+            <path
+              d="M 20 40 C 60 90, 100 10, 150 70 C 170 90, 180 50, 190 40"
               stroke="#FFD166" strokeWidth="10"
-              style={{ 
-                strokeDasharray: 500, 
+              style={{
+                strokeDasharray: 500,
                 strokeDashoffset: isDrawing ? 0 : 500,
                 transition: "stroke-dashoffset 2s ease-out 0.4s"
               }}
             />
             {/* Garis Hijau Tosca */}
-            <path 
-              d="M 5 50 Q 50 100, 100 50 T 195 50" 
+            <path
+              d="M 5 50 Q 50 100, 100 50 T 195 50"
               stroke="#4ECDC4" strokeWidth="6"
-              style={{ 
-                strokeDasharray: 500, 
+              style={{
+                strokeDasharray: 500,
                 strokeDashoffset: isDrawing ? 0 : 500,
                 transition: "stroke-dashoffset 2.5s ease-out 0.6s"
               }}
@@ -100,13 +116,13 @@ export default function LoadingScreen() {
           </svg>
 
           {/* Logo SIMI animating instead of Pencil */}
-          <Image 
-            src="/LOGO-SIMI.png" 
-            alt="Logo SIMI" 
-            width={240} 
-            height={240} 
-            className="absolute object-contain drop-shadow-[4px_4px_0px_#1A535C] animate-[wobble_1.5s_ease-in-out_infinite]" 
-            style={{ transformOrigin: "bottom center" }} 
+          <Image
+            src="/Logo.png"
+            alt="Logo SIMI"
+            width={240}
+            height={240}
+            className="absolute object-contain animate-[wobble_1.5s_ease-in-out_infinite]"
+            style={{ transformOrigin: "bottom center" }}
           />
         </div>
       </div>

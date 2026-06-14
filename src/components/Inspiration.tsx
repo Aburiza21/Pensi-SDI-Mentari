@@ -1,6 +1,7 @@
 "use client";
 
 import { useSwiperSlide } from "swiper/react";
+import Image from "next/image";
 import { Sparkles } from "lucide-react";
 import { ImaginativeDoodles } from "./ImaginativeDoodles";
 
@@ -16,6 +17,18 @@ export default function Inspiration() {
       }}
     >
       <ImaginativeDoodles theme="percaya_diri" />
+
+      {/* Character Mascot */}
+      <div className={`absolute bottom-12 right-6 sm:bottom-2 sm:right-6 md:right-12 w-28 h-28 sm:w-36 sm:h-36 md:w-48 md:h-48 z-20 pointer-events-none transition-all duration-[1200ms] ${isActive ? 'scale-100 translate-y-0 rotate-3 opacity-100' : 'scale-50 translate-y-12 rotate-12 opacity-0'}`}>
+        <Image
+          src="/chars/3.png"
+          alt="Mascot 3"
+          width={192}
+          height={192}
+          className="object-contain"
+          style={{ animation: "floatUp 4.2s ease-in-out infinite" }}
+        />
+      </div>
       
       {/* Chalk scribbles */}
       <svg className="absolute top-[20%] left-[10%] w-[100px] h-[100px] text-white opacity-20 pointer-events-none" viewBox="0 0 100 100" fill="none" stroke="currentColor" strokeWidth="4">

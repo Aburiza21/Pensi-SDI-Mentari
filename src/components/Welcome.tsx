@@ -1,6 +1,7 @@
 "use client";
 
 import { useSwiperSlide } from "swiper/react";
+import Image from "next/image";
 import { Sparkles } from "lucide-react";
 import { ImaginativeDoodles } from "./ImaginativeDoodles";
 
@@ -17,6 +18,18 @@ export default function Welcome() {
       }}
     >
       <ImaginativeDoodles theme="petualangan" />
+
+      {/* Character Mascot */}
+      <div className={`absolute bottom-0 right-14 sm:bottom-0 sm:right-6 md:right-12 w-28 h-28 sm:w-40 sm:h-40 md:w-52 md:h-52 z-20 pointer-events-none transition-all duration-[1200ms] ${isActive ? 'scale-100 translate-y-0 rotate-3 opacity-100' : 'scale-50 translate-y-12 rotate-12 opacity-0'}`}>
+        <Image
+          src="/chars/1.png"
+          alt="Mascot 1"
+          width={208}
+          height={208}
+          className="object-contain"
+          style={{ animation: "floatUp 4.5s ease-in-out infinite" }}
+        />
+      </div>
 
       {/* Crayon scribbles in the background */}
       <svg className="absolute top-10 left-[-10%] w-[250px] h-[250px] text-[#F5A623] opacity-30 pointer-events-none" viewBox="0 0 200 200" fill="none" stroke="currentColor" strokeWidth="6" strokeLinecap="round" strokeLinejoin="round">
@@ -35,7 +48,7 @@ export default function Welcome() {
 
           {/* Main Card */}
           <div className={`relative bg-[#fdfbfb] border-[4px] border-[#1A535C] p-5 sm:p-8 rounded-[255px_25px_225px_25px/25px_225px_25px_255px] flex flex-col items-center w-full transform transition-all duration-[1200ms] cubic-bezier(0.34, 1.56, 0.64, 1) ${isActive ? 'scale-100 opacity-100 translate-y-0 rotate-1' : 'scale-75 opacity-0 translate-y-10 -rotate-6'}`}
-               style={{ fontFamily: 'var(--font-caveat), "Comic Sans MS", cursive' }}>
+            style={{ fontFamily: 'var(--font-caveat), "Comic Sans MS", cursive' }}>
 
             {/* Top Scribble Badge */}
             <div className="absolute -top-4 sm:-top-5 left-1/2 -translate-x-1/2 bg-[#F5A623] text-white px-4 py-1 sm:px-6 sm:py-2 rounded-[255px_15px_225px_15px/15px_225px_15px_255px] font-black uppercase tracking-wider text-xs sm:text-sm shadow-[3px_3px_0px_#D08A1B] border-[2px] border-[#1A535C] flex items-center gap-1 transform transition-transform animate-[wobble_3s_ease-in-out_infinite]">
@@ -61,7 +74,7 @@ export default function Welcome() {
               className="w-full text-[#3E362E] font-medium flex flex-col gap-3 sm:gap-6 leading-tight sm:leading-relaxed text-lg sm:text-xl md:text-2xl"
             >
               <p className={`transition-all duration-1000 delay-700 transform ${isActive ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}>
-                Dengan penuh rasa syukur dan kebahagiaan, kami mengundang Bapak/Ibu untuk hadir dalam{" "}
+                Dengan penuh rasa syukur dan kebahagiaan, kami mengundang Ayah dan Bunda untuk hadir dalam{" "}
                 <span className="block mt-1 sm:mt-2 font-bold text-xl sm:text-3xl text-[#F5A623] leading-none py-1 transform rotate-2 hover:-rotate-1 transition-transform" style={{ WebkitTextStroke: "1px #1A535C", textShadow: "2px 2px 0px #1A535C" }}>
                   ARUNIKA ADVENTURE FEST
                 </span>
@@ -77,7 +90,7 @@ export default function Welcome() {
               </div>
 
               <p className={`transition-all duration-1000 delay-1000 transform ${isActive ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}>
-                Kehadiran Bapak/Ibu akan menjadi dukungan dan apresiasi terbaik bagi putra-putri tercinta.
+                Kehadiran Ayah dan Bunda akan menjadi dukungan dan apresiasi terbaik bagi putra-putri tercinta.
               </p>
             </div>
           </div>

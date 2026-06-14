@@ -56,11 +56,11 @@ export default function MusicPlayer() {
   return (
     <>
       {/* Background audio element */}
-      <audio 
-        ref={audioRef} 
-        loop 
+      <audio
+        ref={audioRef}
+        loop
         autoPlay
-        src="/music.mp3?v=1" 
+        src="/persahabatan.mp4?v=1"
         preload="auto"
       />
 

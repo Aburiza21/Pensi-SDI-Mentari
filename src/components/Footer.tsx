@@ -35,7 +35,7 @@ export default function Footer() {
           </h3>
 
           <p className="text-lg sm:text-2xl font-bold text-[#1A535C] leading-snug sm:leading-relaxed mb-4 sm:mb-6" style={{ fontFamily: "var(--font-caveat), cursive" }}>
-            Merupakan kebahagiaan bagi kami bila Bapak/Ibu turut hadir dalam momen istimewa ini.
+            Merupakan kebahagiaan bagi kami bila Ayah dan Bunda turut hadir dalam momen istimewa ini.
           </p>
 
           <svg className="w-24 sm:w-32 h-4 sm:h-6 mx-auto mb-4 sm:mb-6" viewBox="0 0 100 20" fill="none" stroke="#F5A623" strokeWidth="5" strokeLinecap="round">
